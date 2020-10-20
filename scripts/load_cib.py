@@ -6,6 +6,7 @@ Created on Mon Oct 19 16:50:46 2020
 @author: francois
 """
 import json
+import os
 from os.path import basename as bname
 from os.path import join
 from os import listdir as ls
@@ -41,16 +42,16 @@ def main():
         ''' Returns nested dictionairy with category infos'''
         baselvl = [join(imdir, item) for item in ls(imdir)] # animate_being, object, place
         mapping = df.from_dict(\
-                    df((((bname(top), ('n_files', len(loadimages(top)))),
+                    df((((bname(top), ('n_files', len(loadimages(top)))).__str__(),
                          ((dict((((sub1, ('n_files',\
-                           len(loadimages(join(top, sub1))))),\
+                           len(loadimages(join(top, sub1))))).__str__(),\
                             dict((((sub2, ('n_files',\
-                             len(loadimages(join(top, sub1, sub2))))),\
+                             len(loadimages(join(top, sub1, sub2))))).__str__(),\
                               dict((((sub3, ('n_files',\
-                               len(loadimages(join(top, sub1, sub2, sub3))))),\
+                               len(loadimages(join(top, sub1, sub2, sub3))))).__str__(),\
                                 dict(((((((item, ('n_files',\
                                  (len(loadimages(join(top, sub1,
-                                                      sub2, sub3, item)))))),\
+                                                      sub2, sub3, item)))))).__str__(),\
                                   ('files', sorted(loadimages(join(
                                       top, sub1, sub2, sub3, item)))))))))
                                      for item in ls(join(top,sub1,sub2,sub3)))))
@@ -60,10 +61,10 @@ def main():
                         for top in baselvl),
                        dtype='object').set_index(0).transpose(
                            ).to_dict()).transpose().to_dict()[1]
-        return str(mapping)
+        return mapping
     def json_write(jsonfit, name='cib_inv.json'):
         with open(join('../docs/', name), 'w') as outfile:
-            json.dump(json.dumps(jsonfit), outfile, indent=8)
+            json.dump(json.dumps(jsonfit), outfile, indent=4)
     cibmap = load_cib()
     json_write(cibmap)
 if __name__ == "__main__":
