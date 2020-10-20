@@ -14,7 +14,9 @@
 ## TO-DO
 
 [ ] Complete the 'restaurant', 'house' categories & other places
+
 [ ] Complete the 'tree' 2nd level category
+
 [ ] Validate category distribution asymetries according to either or both:
 ###### A) Neuronal sources
 ###### B) Human validated image databases
