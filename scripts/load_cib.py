@@ -10,13 +10,35 @@ from os.path import basename as bname
 from os.path import join
 from os import listdir as ls
 from pandas import DataFrame as df
-from taskfunctions import loadimages
 
 def main():
     '''
-    'Overwrite current cib.json file in 'docs' directory.
+    'Overwrite current cib.json file in 'docs' directory.'''
+    def loadimages(impath='../images'):
     '''
+    Description
+    -----------
+    Lists the full relative path of all '.jpeg' files in a directory.
+
+    Parameters
+    ----------
+    imdir: type = str
+        Name of the directory containing the images.
+
+    Return
+    ------
+    imlist: type = list
+        1D list containing all '.jpeg' files' full relative paths
+    '''
+    imlist = []
+    for allimages in os.walk(impath):
+        for image in allimages[2]:
+            impath = join(allimages[0], image)
+            if os.path.isfile(impath):
+                imlist.append(impath)
+    return imlist
     def load_cib(imdir = '../images'):
+        ''' Returns nested dictionairy with category infos'''
         baselvl = [join(imdir, item) for item in ls(imdir)] # animate_being, object, place
         mapping = df.from_dict(\
                     df((((bname(top), ('n_files', len(loadimages(top)))),
