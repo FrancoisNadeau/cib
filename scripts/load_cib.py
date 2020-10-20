@@ -64,7 +64,7 @@ def main():
         return mapping
     def json_write(jsonfit, name='cib_inv.json'):
         with open(join('../docs/', name), 'w') as outfile:
-            json.dump(json.dumps(jsonfit), outfile, indent=4)
+            json.dump(json.dumps(jsonfit, indent=4), outfile, indent=3)
     cibmap = load_cib()
     json_write(cibmap)
 if __name__ == "__main__":
