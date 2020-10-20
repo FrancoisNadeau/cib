@@ -1,0 +1,2915 @@
+MRI,                                                 path  ... subordinates_syns
+MRI  ../images/object/artifact/medical_instrument/MRI  ...                []
+
+[1 rows x 7 columns]
+RV,                                    path  ... subordinates_syns
+RV  ../images/object/artifact/vehicle/RV  ...                []
+
+[1 rows x 7 columns]
+accordion,                                                        path  ... subordinates_syns
+accordion  ../images/object/artifact/musical_instrument/a...  ...                []
+
+[1 rows x 7 columns]
+adolescent,                                                                     path  ... subordinates_syns
+adolescent_female_face  ../images/animate_being/human/face/female/adol...  ...                []
+adolescent_male_face    ../images/animate_being/human/face/male/adoles...  ...                []
+
+[2 rows x 7 columns]
+adult,                                                              path  ... subordinates_syns
+adult_female_face  ../images/animate_being/human/face/female/adult  ...                []
+adult_male_face      ../images/animate_being/human/face/male/adult  ...                []
+
+[2 rows x 7 columns]
+air_conditioner,                                                              path  ... subordinates_syns
+air_conditioner  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+airplane,                                                path  ... subordinates_syns
+airplane  ../images/object/artifact/vehicle/airplane  ...                []
+
+[1 rows x 7 columns]
+anemone_fish,                                                                path  ... subordinates_syns
+body_anemone_fish  ../images/animate_being/animal/fish/anemone_fi...  ...                []
+
+[1 rows x 7 columns]
+animal,                                                                  path  ... subordinates_syns
+bear_ear             ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_eye             ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_nose            ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_paw             ../images/animate_being/animal/mammal/bear/bod...  ...                []
+blue_jay_beak        ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_eye         ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_tail        ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_talon       ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+body_anemone_fish    ../images/animate_being/animal/fish/anemone_fi...  ...                []
+body_ant                ../images/animate_being/animal/insect/ant/body  ...                []
+body_bear              ../images/animate_being/animal/mammal/bear/body  ...                []
+body_beaver          ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_bee                ../images/animate_being/animal/insect/bee/body  ...                []
+body_beetle          ../images/animate_being/animal/insect/beetle/body  ...                []
+body_blue_jay        ../images/animate_being/animal/bird/blue_jay/body  ...                []
+body_butterfly       ../images/animate_being/animal/insect/butterfl...  ...                []
+body_butterfly_fish  ../images/animate_being/animal/fish/butterfly_...  ...                []
+body_cardinal        ../images/animate_being/animal/bird/cardinal/body  ...                []
+body_cat             ../images/animate_being/animal/mammal/feline/c...  ...                []
+body_caterpillar     ../images/animate_being/animal/insect/caterpil...  ...                []
+body_chameleon       ../images/animate_being/animal/reptile/chamele...  ...                []
+body_chickadee       ../images/animate_being/animal/bird/chickadee/...  ...                []
+body_chicken          ../images/animate_being/animal/bird/chicken/body  ...                []
+body_common_iguana   ../images/animate_being/animal/reptile/common_...  ...                []
+body_cow                ../images/animate_being/animal/mammal/cow/body  ...                []
+body_coyote          ../images/animate_being/animal/mammal/canine/c...  ...                []
+body_crocodile       ../images/animate_being/animal/reptile/crocodi...  ...                []
+body_dog             ../images/animate_being/animal/mammal/canine/d...  ...                []
+body_dolphin         ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_dragonfly       ../images/animate_being/animal/insect/dragonfl...  ...                []
+...                                                                ...  ...               ...
+owl_talon            ../images/animate_being/animal/bird/owl/body_p...  ...                []
+parrot_eye           ../images/animate_being/animal/bird/parrot/bod...  ...                []
+peacock_eye          ../images/animate_being/animal/bird/peacock/bo...  ...                []
+peacock_tail         ../images/animate_being/animal/bird/peacock/bo...  ...                []
+rabbit_ear           ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_eye           ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_nose          ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_paw           ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_tail          ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_tooth         ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+raccoon_paw          ../images/animate_being/animal/mammal/raccoon/...  ...                []
+seal_nose            ../images/animate_being/animal/mammal/aquatic_...  ...                []
+seal_tooth           ../images/animate_being/animal/mammal/aquatic_...  ...                []
+sheep_ear            ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+sheep_eye            ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+sheep_nose           ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+snake_eye            ../images/animate_being/animal/reptile/snake/b...  ...                []
+snake_mouth          ../images/animate_being/animal/reptile/snake/b...  ...                []
+squirrel_eye         ../images/animate_being/animal/mammal/squirrel...  ...                []
+squirrel_tail        ../images/animate_being/animal/mammal/squirrel...  ...                []
+tail_hog             ../images/animate_being/animal/mammal/hog/body...  ...                []
+tiger_ear            ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_eye            ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_nose           ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_paw            ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_tail           ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_tooth          ../images/animate_being/animal/mammal/feline/t...  ...                []
+turtle_tail          ../images/animate_being/animal/reptile/turtle/...  ...                []
+whale_tail           ../images/animate_being/animal/mammal/aquatic_...  ...                []
+wolf_tail            ../images/animate_being/animal/mammal/canine/w...  ...                []
+
+[234 rows x 7 columns]
+animate_being,                                                                     path  ... subordinates_syns
+adolescent_female_face  ../images/animate_being/human/face/female/adol...  ...                []
+adolescent_male_face    ../images/animate_being/human/face/male/adoles...  ...                []
+adult_female_face         ../images/animate_being/human/face/female/adult  ...                []
+adult_male_face             ../images/animate_being/human/face/male/adult  ...                []
+arm_human                     ../images/animate_being/human/body_part/arm  ...                []
+baby_female_face           ../images/animate_being/human/face/female/baby  ...                []
+baby_male_face               ../images/animate_being/human/face/male/baby  ...                []
+bear_ear                ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_eye                ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_nose               ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_paw                ../images/animate_being/animal/mammal/bear/bod...  ...                []
+blue_jay_beak           ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_eye            ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_tail           ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_talon          ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+body_anemone_fish       ../images/animate_being/animal/fish/anemone_fi...  ...                []
+body_ant                   ../images/animate_being/animal/insect/ant/body  ...                []
+body_bear                 ../images/animate_being/animal/mammal/bear/body  ...                []
+body_beaver             ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_bee                   ../images/animate_being/animal/insect/bee/body  ...                []
+body_beetle             ../images/animate_being/animal/insect/beetle/body  ...                []
+body_blue_jay           ../images/animate_being/animal/bird/blue_jay/body  ...                []
+body_butterfly          ../images/animate_being/animal/insect/butterfl...  ...                []
+body_butterfly_fish     ../images/animate_being/animal/fish/butterfly_...  ...                []
+body_cardinal           ../images/animate_being/animal/bird/cardinal/body  ...                []
+body_cat                ../images/animate_being/animal/mammal/feline/c...  ...                []
+body_caterpillar        ../images/animate_being/animal/insect/caterpil...  ...                []
+body_chameleon          ../images/animate_being/animal/reptile/chamele...  ...                []
+body_chickadee          ../images/animate_being/animal/bird/chickadee/...  ...                []
+body_chicken             ../images/animate_being/animal/bird/chicken/body  ...                []
+...                                                                   ...  ...               ...
+peacock_eye             ../images/animate_being/animal/bird/peacock/bo...  ...                []
+peacock_tail            ../images/animate_being/animal/bird/peacock/bo...  ...                []
+rabbit_ear              ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_eye              ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_nose             ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_paw              ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_tail             ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_tooth            ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+raccoon_paw             ../images/animate_being/animal/mammal/raccoon/...  ...                []
+seal_nose               ../images/animate_being/animal/mammal/aquatic_...  ...                []
+seal_tooth              ../images/animate_being/animal/mammal/aquatic_...  ...                []
+sheep_ear               ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+sheep_eye               ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+sheep_nose              ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+snake_eye               ../images/animate_being/animal/reptile/snake/b...  ...                []
+snake_mouth             ../images/animate_being/animal/reptile/snake/b...  ...                []
+squirrel_eye            ../images/animate_being/animal/mammal/squirrel...  ...                []
+squirrel_tail           ../images/animate_being/animal/mammal/squirrel...  ...                []
+tail_hog                ../images/animate_being/animal/mammal/hog/body...  ...                []
+tiger_ear               ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_eye               ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_nose              ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_paw               ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_tail              ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_tooth             ../images/animate_being/animal/mammal/feline/t...  ...                []
+tongue_human               ../images/animate_being/human/body_part/tongue  ...                []
+tooth_human                 ../images/animate_being/human/body_part/tooth  ...                []
+turtle_tail             ../images/animate_being/animal/reptile/turtle/...  ...                []
+whale_tail              ../images/animate_being/animal/mammal/aquatic_...  ...                []
+wolf_tail               ../images/animate_being/animal/mammal/canine/w...  ...                []
+
+[255 rows x 7 columns]
+anklet,                                            path  ... subordinates_syns
+anklet  ../images/object/artifact/jewelry/anklet  ...                []
+
+[1 rows x 7 columns]
+ant,                                                    path  ... subordinates_syns
+body_ant  ../images/animate_being/animal/insect/ant/body  ...                []
+
+[1 rows x 7 columns]
+apple,                                              path  ... subordinates_syns
+apple  ../images/object/natural_object/fruit/apple  ...                []
+
+[1 rows x 7 columns]
+aquatic_mammal,                                                                 path  ... subordinates_syns
+body_beaver         ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_dolphin        ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_hippopotamus   ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_killer_whale   ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_marauder       ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_sea_lion       ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_seal           ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_walrus         ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_whale          ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_white_whale    ../images/animate_being/animal/mammal/aquatic_...  ...                []
+dolphin_tail        ../images/animate_being/animal/mammal/aquatic_...  ...                []
+eye_white_whale     ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_beaver         ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_dolphin        ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_hippopotamus   ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_marauder       ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_sea_lion       ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_seal           ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_walrus         ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_whale          ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_white_whale    ../images/animate_being/animal/mammal/aquatic_...  ...                []
+hippopotamus_eye    ../images/animate_being/animal/mammal/aquatic_...  ...                []
+hippopotamus_tooth  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+killer_whale        ../images/animate_being/animal/mammal/aquatic_...  ...                []
+seal_nose           ../images/animate_being/animal/mammal/aquatic_...  ...                []
+seal_tooth          ../images/animate_being/animal/mammal/aquatic_...  ...                []
+whale_tail          ../images/animate_being/animal/mammal/aquatic_...  ...                []
+
+[27 rows x 7 columns]
+arm,                                                  path  ... subordinates_syns
+arm_human  ../images/animate_being/human/body_part/arm  ...                []
+
+[1 rows x 7 columns]
+armchair,                                                  path  ... subordinates_syns
+armchair  ../images/object/artifact/furniture/armchair  ...                []
+
+[1 rows x 7 columns]
+artifact,                                                              path  ... subordinates_syns
+MRI               ../images/object/artifact/medical_instrument/MRI  ...                []
+RV                            ../images/object/artifact/vehicle/RV  ...                []
+accordion        ../images/object/artifact/musical_instrument/a...  ...                []
+air_conditioner  ../images/object/artifact/household_appliance/...  ...                []
+airplane                ../images/object/artifact/vehicle/airplane  ...                []
+anklet                    ../images/object/artifact/jewelry/anklet  ...                []
+armchair              ../images/object/artifact/furniture/armchair  ...                []
+axe                             ../images/object/artifact/tool/axe  ...                []
+backpack                 ../images/object/artifact/school/backpack  ...                []
+bagel                         ../images/object/artifact/food/bagel  ...                []
+balloon               ../images/object/artifact/decoration/balloon  ...                []
+baseball          ../images/object/artifact/outdoor_sport/baseball  ...                []
+basket              ../images/object/artifact/outdoor_sport/basket  ...                []
+basketball       ../images/object/artifact/outdoor_sport/basket...  ...                []
+bathtub                 ../images/object/artifact/bathroom/bathtub  ...                []
+beach_ball               ../images/object/artifact/game/beach_ball  ...                []
+bed                        ../images/object/artifact/furniture/bed  ...                []
+bench                    ../images/object/artifact/furniture/bench  ...                []
+bicycle                  ../images/object/artifact/vehicle/bicycle  ...                []
+billiards                 ../images/object/artifact/game/billiards  ...                []
+binder                     ../images/object/artifact/school/binder  ...                []
+blower                       ../images/object/artifact/tool/blower  ...                []
+board                       ../images/object/artifact/school/board  ...                []
+book                         ../images/object/artifact/school/book  ...                []
+bookshelf            ../images/object/artifact/furniture/bookshelf  ...                []
+bottle_opener    ../images/object/artifact/kitchenware/bottle_o...  ...                []
+bowling                     ../images/object/artifact/game/bowling  ...                []
+bracelet                ../images/object/artifact/jewelry/bracelet  ...                []
+bread                         ../images/object/artifact/food/bread  ...                []
+broom            ../images/object/artifact/household_appliance/...  ...                []
+...                                                            ...  ...               ...
+table                    ../images/object/artifact/furniture/table  ...                []
+tablespoon        ../images/object/artifact/kitchenware/tablespoon  ...                []
+tambourine       ../images/object/artifact/musical_instrument/t...  ...                []
+tape             ../images/object/artifact/medical_instrument/tape  ...                []
+teapot                ../images/object/artifact/kitchenware/teapot  ...                []
+television       ../images/object/artifact/electronic_device/te...  ...                []
+tennis_ball      ../images/object/artifact/outdoor_sport/tennis...  ...                []
+thermometer      ../images/object/artifact/medical_instrument/t...  ...                []
+toilet                   ../images/object/artifact/bathroom/toilet  ...                []
+toilet_paper       ../images/object/artifact/bathroom/toilet_paper  ...                []
+toothbrush           ../images/object/artifact/bathroom/toothbrush  ...                []
+towel                     ../images/object/artifact/bathroom/towel  ...                []
+tractor                  ../images/object/artifact/vehicle/tractor  ...                []
+train                      ../images/object/artifact/vehicle/train  ...                []
+trash_can        ../images/object/artifact/household_appliance/...  ...                []
+trumpet          ../images/object/artifact/musical_instrument/t...  ...                []
+tuxedo                   ../images/object/artifact/clothing/tuxedo  ...                []
+urinal                   ../images/object/artifact/bathroom/urinal  ...                []
+vacuum_cleaner   ../images/object/artifact/household_appliance/...  ...                []
+video_game       ../images/object/artifact/electronic_device/vi...  ...                []
+violin           ../images/object/artifact/musical_instrument/v...  ...                []
+walkie-talkie    ../images/object/artifact/electronic_device/wa...  ...                []
+washer           ../images/object/artifact/household_appliance/...  ...                []
+watch                      ../images/object/artifact/jewelry/watch  ...                []
+watering_can           ../images/object/artifact/tool/watering_can  ...                []
+wheelbarrow             ../images/object/artifact/tool/wheelbarrow  ...                []
+wheelchair       ../images/object/artifact/medical_instrument/w...  ...                []
+whisk                  ../images/object/artifact/kitchenware/whisk  ...                []
+wrench                       ../images/object/artifact/tool/wrench  ...                []
+xylophone        ../images/object/artifact/musical_instrument/x...  ...                []
+
+[255 rows x 7 columns]
+asparagus,                                                        path  ... subordinates_syns
+asparagus  ../images/object/natural_object/vegetable/aspa...  ...                []
+
+[1 rows x 7 columns]
+axe,                                   path  ... subordinates_syns
+axe  ../images/object/artifact/tool/axe  ...                []
+
+[1 rows x 7 columns]
+baby,                                                            path  ... subordinates_syns
+baby_female_face  ../images/animate_being/human/face/female/baby  ...                []
+baby_male_face      ../images/animate_being/human/face/male/baby  ...                []
+
+[2 rows x 7 columns]
+backpack,                                               path  ... subordinates_syns
+backpack  ../images/object/artifact/school/backpack  ...                []
+
+[1 rows x 7 columns]
+bagel,                                       path  ... subordinates_syns
+bagel  ../images/object/artifact/food/bagel  ...                []
+
+[1 rows x 7 columns]
+balloon,                                                 path  ... subordinates_syns
+balloon  ../images/object/artifact/decoration/balloon  ...                []
+
+[1 rows x 7 columns]
+banana,                                                path  ... subordinates_syns
+banana  ../images/object/natural_object/fruit/banana  ...                []
+
+[1 rows x 7 columns]
+baseball,                                                      path  ... subordinates_syns
+baseball  ../images/object/artifact/outdoor_sport/baseball  ...                []
+
+[1 rows x 7 columns]
+basket,                                                  path  ... subordinates_syns
+basket  ../images/object/artifact/outdoor_sport/basket  ...                []
+
+[1 rows x 7 columns]
+basketball,                                                         path  ... subordinates_syns
+basketball  ../images/object/artifact/outdoor_sport/basket...  ...                []
+
+[1 rows x 7 columns]
+bathroom,                                                         path  ... subordinates_syns
+bathtub            ../images/object/artifact/bathroom/bathtub  ...                []
+clipper            ../images/object/artifact/bathroom/clipper  ...                []
+dryer                ../images/object/artifact/bathroom/dryer  ...                []
+flatiron          ../images/object/artifact/bathroom/flatiron  ...                []
+hair_dryer      ../images/object/artifact/bathroom/hair_dryer  ...                []
+hairbrush        ../images/object/artifact/bathroom/hairbrush  ...                []
+razor                ../images/object/artifact/bathroom/razor  ...                []
+shower              ../images/object/artifact/bathroom/shower  ...                []
+showerhead      ../images/object/artifact/bathroom/showerhead  ...                []
+sink                  ../images/object/artifact/bathroom/sink  ...                []
+soap                  ../images/object/artifact/bathroom/soap  ...                []
+toilet              ../images/object/artifact/bathroom/toilet  ...                []
+toilet_paper  ../images/object/artifact/bathroom/toilet_paper  ...                []
+toothbrush      ../images/object/artifact/bathroom/toothbrush  ...                []
+towel                ../images/object/artifact/bathroom/towel  ...                []
+urinal              ../images/object/artifact/bathroom/urinal  ...                []
+
+[16 rows x 7 columns]
+bathtub,                                               path  ... subordinates_syns
+bathtub  ../images/object/artifact/bathroom/bathtub  ...                []
+
+[1 rows x 7 columns]
+beach_ball,                                                 path  ... subordinates_syns
+beach_ball  ../images/object/artifact/game/beach_ball  ...                []
+
+[1 rows x 7 columns]
+beak,                                                            path  ... subordinates_syns
+blue_jay_beak  ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+cardinal_beak  ../images/animate_being/animal/bird/cardinal/b...  ...                []
+
+[2 rows x 7 columns]
+bear,                                                        path  ... subordinates_syns
+bear_ear   ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_eye   ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_nose  ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_paw   ../images/animate_being/animal/mammal/bear/bod...  ...                []
+body_bear    ../images/animate_being/animal/mammal/bear/body  ...                []
+face_bear    ../images/animate_being/animal/mammal/bear/face  ...                []
+
+[6 rows x 7 columns]
+beaver,                                                          path  ... subordinates_syns
+body_beaver  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_beaver  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+
+[2 rows x 7 columns]
+bed,                                        path  ... subordinates_syns
+bed  ../images/object/artifact/furniture/bed  ...                []
+
+[1 rows x 7 columns]
+bee,                                                    path  ... subordinates_syns
+body_bee  ../images/animate_being/animal/insect/bee/body  ...                []
+face_bee  ../images/animate_being/animal/insect/bee/face  ...                []
+
+[2 rows x 7 columns]
+beetle,                                                          path  ... subordinates_syns
+body_beetle  ../images/animate_being/animal/insect/beetle/body  ...                []
+
+[1 rows x 7 columns]
+bench,                                            path  ... subordinates_syns
+bench  ../images/object/artifact/furniture/bench  ...                []
+
+[1 rows x 7 columns]
+bicycle,                                              path  ... subordinates_syns
+bicycle  ../images/object/artifact/vehicle/bicycle  ...                []
+
+[1 rows x 7 columns]
+billiards,                                               path  ... subordinates_syns
+billiards  ../images/object/artifact/game/billiards  ...                []
+
+[1 rows x 7 columns]
+binder,                                           path  ... subordinates_syns
+binder  ../images/object/artifact/school/binder  ...                []
+
+[1 rows x 7 columns]
+bird,                                                               path  ... subordinates_syns
+blue_jay_beak     ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_eye      ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_tail     ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_talon    ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+body_blue_jay     ../images/animate_being/animal/bird/blue_jay/body  ...                []
+body_cardinal     ../images/animate_being/animal/bird/cardinal/body  ...                []
+body_chickadee    ../images/animate_being/animal/bird/chickadee/...  ...                []
+body_chicken       ../images/animate_being/animal/bird/chicken/body  ...                []
+body_falcon         ../images/animate_being/animal/bird/falcon/body  ...                []
+body_flamingo     ../images/animate_being/animal/bird/flamingo/body  ...                []
+body_heron           ../images/animate_being/animal/bird/heron/body  ...                []
+body_hummingbird  ../images/animate_being/animal/bird/hummingbir...  ...                []
+body_owl               ../images/animate_being/animal/bird/owl/body  ...                []
+body_parrot         ../images/animate_being/animal/bird/parrot/body  ...                []
+body_peacock       ../images/animate_being/animal/bird/peacock/body  ...                []
+body_penguin       ../images/animate_being/animal/bird/penguin/body  ...                []
+body_sparrow       ../images/animate_being/animal/bird/sparrow/body  ...                []
+body_swan             ../images/animate_being/animal/bird/swan/body  ...                []
+cardinal_beak     ../images/animate_being/animal/bird/cardinal/b...  ...                []
+cardinal_talon    ../images/animate_being/animal/bird/cardinal/b...  ...                []
+chicken_eye       ../images/animate_being/animal/bird/chicken/bo...  ...                []
+face_blue_jay     ../images/animate_being/animal/bird/blue_jay/face  ...                []
+face_cardinal     ../images/animate_being/animal/bird/cardinal/face  ...                []
+face_chicken       ../images/animate_being/animal/bird/chicken/face  ...                []
+face_falcon         ../images/animate_being/animal/bird/falcon/face  ...                []
+face_flamingo     ../images/animate_being/animal/bird/flamingo/f...  ...                []
+face_heron           ../images/animate_being/animal/bird/heron/face  ...                []
+face_owl               ../images/animate_being/animal/bird/owl/face  ...                []
+face_parrot         ../images/animate_being/animal/bird/parrot/face  ...                []
+face_peacock       ../images/animate_being/animal/bird/peacock/face  ...                []
+face_penguin       ../images/animate_being/animal/bird/penguin/face  ...                []
+face_sparrow       ../images/animate_being/animal/bird/sparrow/face  ...                []
+face_swan             ../images/animate_being/animal/bird/swan/face  ...                []
+owl_eye           ../images/animate_being/animal/bird/owl/body_p...  ...                []
+owl_talon         ../images/animate_being/animal/bird/owl/body_p...  ...                []
+parrot_eye        ../images/animate_being/animal/bird/parrot/bod...  ...                []
+peacock_eye       ../images/animate_being/animal/bird/peacock/bo...  ...                []
+peacock_tail      ../images/animate_being/animal/bird/peacock/bo...  ...                []
+
+[38 rows x 7 columns]
+blower,                                         path  ... subordinates_syns
+blower  ../images/object/artifact/tool/blower  ...                []
+
+[1 rows x 7 columns]
+blue_jay,                                                             path  ... subordinates_syns
+blue_jay_beak   ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_eye    ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_tail   ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_talon  ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+body_blue_jay   ../images/animate_being/animal/bird/blue_jay/body  ...                []
+face_blue_jay   ../images/animate_being/animal/bird/blue_jay/face  ...                []
+
+[6 rows x 7 columns]
+board,                                         path  ... subordinates_syns
+board  ../images/object/artifact/school/board  ...                []
+
+[1 rows x 7 columns]
+body,                                                                  path  ... subordinates_syns
+body_anemone_fish    ../images/animate_being/animal/fish/anemone_fi...  ...                []
+body_ant                ../images/animate_being/animal/insect/ant/body  ...                []
+body_bear              ../images/animate_being/animal/mammal/bear/body  ...                []
+body_beaver          ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_bee                ../images/animate_being/animal/insect/bee/body  ...                []
+body_beetle          ../images/animate_being/animal/insect/beetle/body  ...                []
+body_blue_jay        ../images/animate_being/animal/bird/blue_jay/body  ...                []
+body_butterfly       ../images/animate_being/animal/insect/butterfl...  ...                []
+body_butterfly_fish  ../images/animate_being/animal/fish/butterfly_...  ...                []
+body_cardinal        ../images/animate_being/animal/bird/cardinal/body  ...                []
+body_cat             ../images/animate_being/animal/mammal/feline/c...  ...                []
+body_caterpillar     ../images/animate_being/animal/insect/caterpil...  ...                []
+body_chameleon       ../images/animate_being/animal/reptile/chamele...  ...                []
+body_chickadee       ../images/animate_being/animal/bird/chickadee/...  ...                []
+body_chicken          ../images/animate_being/animal/bird/chicken/body  ...                []
+body_common_iguana   ../images/animate_being/animal/reptile/common_...  ...                []
+body_cow                ../images/animate_being/animal/mammal/cow/body  ...                []
+body_coyote          ../images/animate_being/animal/mammal/canine/c...  ...                []
+body_crocodile       ../images/animate_being/animal/reptile/crocodi...  ...                []
+body_dog             ../images/animate_being/animal/mammal/canine/d...  ...                []
+body_dolphin         ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_dragonfly       ../images/animate_being/animal/insect/dragonfl...  ...                []
+body_elephant        ../images/animate_being/animal/mammal/elephant...  ...                []
+body_elk                ../images/animate_being/animal/mammal/elk/body  ...                []
+body_falcon            ../images/animate_being/animal/bird/falcon/body  ...                []
+body_flamingo        ../images/animate_being/animal/bird/flamingo/body  ...                []
+body_fly                ../images/animate_being/animal/insect/fly/body  ...                []
+body_fox             ../images/animate_being/animal/mammal/canine/f...  ...                []
+body_giant_panda     ../images/animate_being/animal/mammal/giant_pa...  ...                []
+body_giraffe         ../images/animate_being/animal/mammal/giraffe/...  ...                []
+...                                                                ...  ...               ...
+body_lionfish        ../images/animate_being/animal/fish/lionfish/body  ...                []
+body_lizard          ../images/animate_being/animal/reptile/lizard/...  ...                []
+body_lynx            ../images/animate_being/animal/mammal/feline/l...  ...                []
+body_marauder        ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_monkey          ../images/animate_being/animal/mammal/monkey/body  ...                []
+body_moray              ../images/animate_being/animal/fish/moray/body  ...                []
+body_owl                  ../images/animate_being/animal/bird/owl/body  ...                []
+body_parrot            ../images/animate_being/animal/bird/parrot/body  ...                []
+body_peacock          ../images/animate_being/animal/bird/peacock/body  ...                []
+body_penguin          ../images/animate_being/animal/bird/penguin/body  ...                []
+body_piranha          ../images/animate_being/animal/fish/piranha/body  ...                []
+body_rabbit          ../images/animate_being/animal/mammal/rabbit/body  ...                []
+body_raccoon         ../images/animate_being/animal/mammal/raccoon/...  ...                []
+body_ray                  ../images/animate_being/animal/fish/ray/body  ...                []
+body_sea_lion        ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_seahorse        ../images/animate_being/animal/fish/seahorse/body  ...                []
+body_seal            ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_sheep            ../images/animate_being/animal/mammal/sheep/body  ...                []
+body_snake           ../images/animate_being/animal/reptile/snake/body  ...                []
+body_sparrow          ../images/animate_being/animal/bird/sparrow/body  ...                []
+body_squirrel        ../images/animate_being/animal/mammal/squirrel...  ...                []
+body_surgeonfish     ../images/animate_being/animal/fish/surgeonfis...  ...                []
+body_swan                ../images/animate_being/animal/bird/swan/body  ...                []
+body_tiger           ../images/animate_being/animal/mammal/feline/t...  ...                []
+body_trout              ../images/animate_being/animal/fish/trout/body  ...                []
+body_turtle          ../images/animate_being/animal/reptile/turtle/...  ...                []
+body_walrus          ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_whale           ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_white_whale     ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_wolf            ../images/animate_being/animal/mammal/canine/w...  ...                []
+
+[73 rows x 7 columns]
+body_part,                                                              path  ... subordinates_syns
+arm_human              ../images/animate_being/human/body_part/arm  ...                []
+bear_ear         ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_eye         ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_nose        ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_paw         ../images/animate_being/animal/mammal/bear/bod...  ...                []
+blue_jay_beak    ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_eye     ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_tail    ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+blue_jay_talon   ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+cardinal_beak    ../images/animate_being/animal/bird/cardinal/b...  ...                []
+cardinal_talon   ../images/animate_being/animal/bird/cardinal/b...  ...                []
+cat_eye          ../images/animate_being/animal/mammal/feline/c...  ...                []
+cat_nose         ../images/animate_being/animal/mammal/feline/c...  ...                []
+cat_paw          ../images/animate_being/animal/mammal/feline/c...  ...                []
+chicken_eye      ../images/animate_being/animal/bird/chicken/bo...  ...                []
+cow_eye          ../images/animate_being/animal/mammal/cow/body...  ...                []
+cow_nose         ../images/animate_being/animal/mammal/cow/body...  ...                []
+crocodile_eye    ../images/animate_being/animal/reptile/crocodi...  ...                []
+crocodile_paw    ../images/animate_being/animal/reptile/crocodi...  ...                []
+crocodile_tail   ../images/animate_being/animal/reptile/crocodi...  ...                []
+crocodile_tooth  ../images/animate_being/animal/reptile/crocodi...  ...                []
+dog_ear          ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_eye          ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_nose         ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_paw          ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_tail         ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_tooth        ../images/animate_being/animal/mammal/canine/d...  ...                []
+dolphin_tail     ../images/animate_being/animal/mammal/aquatic_...  ...                []
+ear_hog          ../images/animate_being/animal/mammal/hog/body...  ...                []
+ear_human              ../images/animate_being/human/body_part/ear  ...                []
+...                                                            ...  ...               ...
+parrot_eye       ../images/animate_being/animal/bird/parrot/bod...  ...                []
+peacock_eye      ../images/animate_being/animal/bird/peacock/bo...  ...                []
+peacock_tail     ../images/animate_being/animal/bird/peacock/bo...  ...                []
+rabbit_ear       ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_eye       ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_nose      ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_paw       ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_tail      ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_tooth     ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+raccoon_paw      ../images/animate_being/animal/mammal/raccoon/...  ...                []
+seal_nose        ../images/animate_being/animal/mammal/aquatic_...  ...                []
+seal_tooth       ../images/animate_being/animal/mammal/aquatic_...  ...                []
+sheep_ear        ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+sheep_eye        ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+sheep_nose       ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+snake_eye        ../images/animate_being/animal/reptile/snake/b...  ...                []
+snake_mouth      ../images/animate_being/animal/reptile/snake/b...  ...                []
+squirrel_eye     ../images/animate_being/animal/mammal/squirrel...  ...                []
+squirrel_tail    ../images/animate_being/animal/mammal/squirrel...  ...                []
+tail_hog         ../images/animate_being/animal/mammal/hog/body...  ...                []
+tiger_ear        ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_eye        ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_nose       ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_paw        ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_tail       ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_tooth      ../images/animate_being/animal/mammal/feline/t...  ...                []
+tongue_human        ../images/animate_being/human/body_part/tongue  ...                []
+tooth_human          ../images/animate_being/human/body_part/tooth  ...                []
+whale_tail       ../images/animate_being/animal/mammal/aquatic_...  ...                []
+wolf_tail        ../images/animate_being/animal/mammal/canine/w...  ...                []
+
+[115 rows x 7 columns]
+book,                                       path  ... subordinates_syns
+book  ../images/object/artifact/school/book  ...                []
+
+[1 rows x 7 columns]
+bookshelf,                                                    path  ... subordinates_syns
+bookshelf  ../images/object/artifact/furniture/bookshelf  ...                []
+
+[1 rows x 7 columns]
+bottle_opener,                                                            path  ... subordinates_syns
+bottle_opener  ../images/object/artifact/kitchenware/bottle_o...  ...                []
+
+[1 rows x 7 columns]
+bowling,                                           path  ... subordinates_syns
+bowling  ../images/object/artifact/game/bowling  ...                []
+
+[1 rows x 7 columns]
+bracelet,                                                path  ... subordinates_syns
+bracelet  ../images/object/artifact/jewelry/bracelet  ...                []
+
+[1 rows x 7 columns]
+bread,                                       path  ... subordinates_syns
+bread  ../images/object/artifact/food/bread  ...                []
+
+[1 rows x 7 columns]
+broccoli,                                                       path  ... subordinates_syns
+broccoli  ../images/object/natural_object/vegetable/broc...  ...                []
+
+[1 rows x 7 columns]
+broom,                                                    path  ... subordinates_syns
+broom  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+brush,                                                    path  ... subordinates_syns
+brush  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+bucket,                                                     path  ... subordinates_syns
+bucket  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+buffet,                                              path  ... subordinates_syns
+buffet  ../images/object/artifact/furniture/buffet  ...                []
+
+[1 rows x 7 columns]
+burger,                                              path  ... subordinates_syns
+burger  ../images/object/artifact/food/meal/burger  ...                []
+
+[1 rows x 7 columns]
+bus,                                      path  ... subordinates_syns
+bus  ../images/object/artifact/vehicle/bus  ...                []
+
+[1 rows x 7 columns]
+butter_knife,                                                           path  ... subordinates_syns
+butter_knife  ../images/object/artifact/kitchenware/butter_k...  ...                []
+
+[1 rows x 7 columns]
+butterfly,                                                             path  ... subordinates_syns
+body_butterfly  ../images/animate_being/animal/insect/butterfl...  ...                []
+
+[1 rows x 7 columns]
+butterfly_fish,                                                                  path  ... subordinates_syns
+body_butterfly_fish  ../images/animate_being/animal/fish/butterfly_...  ...                []
+
+[1 rows x 7 columns]
+cabbage,                                                      path  ... subordinates_syns
+cabbage  ../images/object/natural_object/vegetable/cabbage  ...                []
+
+[1 rows x 7 columns]
+cabinet,                                                path  ... subordinates_syns
+cabinet  ../images/object/artifact/furniture/cabinet  ...                []
+
+[1 rows x 7 columns]
+camera,                                                     path  ... subordinates_syns
+camera  ../images/object/artifact/electronic_device/ca...  ...                []
+
+[1 rows x 7 columns]
+camisole,                                                 path  ... subordinates_syns
+camisole  ../images/object/artifact/clothing/camisole  ...                []
+
+[1 rows x 7 columns]
+candle,                                               path  ... subordinates_syns
+candle  ../images/object/artifact/decoration/candle  ...                []
+
+[1 rows x 7 columns]
+canine,                                                          path  ... subordinates_syns
+body_coyote  ../images/animate_being/animal/mammal/canine/c...  ...                []
+body_dog     ../images/animate_being/animal/mammal/canine/d...  ...                []
+body_fox     ../images/animate_being/animal/mammal/canine/f...  ...                []
+body_hyena   ../images/animate_being/animal/mammal/canine/h...  ...                []
+body_wolf    ../images/animate_being/animal/mammal/canine/w...  ...                []
+dog_ear      ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_eye      ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_nose     ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_paw      ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_tail     ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_tooth    ../images/animate_being/animal/mammal/canine/d...  ...                []
+face_coyote  ../images/animate_being/animal/mammal/canine/c...  ...                []
+face_dog     ../images/animate_being/animal/mammal/canine/d...  ...                []
+face_fox     ../images/animate_being/animal/mammal/canine/f...  ...                []
+face_hyena   ../images/animate_being/animal/mammal/canine/h...  ...                []
+face_wolf    ../images/animate_being/animal/mammal/canine/w...  ...                []
+fox_ear      ../images/animate_being/animal/mammal/canine/f...  ...                []
+fox_tail     ../images/animate_being/animal/mammal/canine/f...  ...                []
+hyena_ear    ../images/animate_being/animal/mammal/canine/h...  ...                []
+wolf_tail    ../images/animate_being/animal/mammal/canine/w...  ...                []
+
+[20 rows x 7 columns]
+car,                                      path  ... subordinates_syns
+car  ../images/object/artifact/vehicle/car  ...                []
+
+[1 rows x 7 columns]
+caravan,                                              path  ... subordinates_syns
+caravan  ../images/object/artifact/vehicle/caravan  ...                []
+
+[1 rows x 7 columns]
+cardinal,                                                             path  ... subordinates_syns
+body_cardinal   ../images/animate_being/animal/bird/cardinal/body  ...                []
+cardinal_beak   ../images/animate_being/animal/bird/cardinal/b...  ...                []
+cardinal_talon  ../images/animate_being/animal/bird/cardinal/b...  ...                []
+face_cardinal   ../images/animate_being/animal/bird/cardinal/face  ...                []
+
+[4 rows x 7 columns]
+cargo_ship,                                                    path  ... subordinates_syns
+cargo_ship  ../images/object/artifact/vehicle/cargo_ship  ...                []
+
+[1 rows x 7 columns]
+carpet,                                               path  ... subordinates_syns
+carpet  ../images/object/artifact/decoration/carpet  ...                []
+
+[1 rows x 7 columns]
+carrot,                                                    path  ... subordinates_syns
+carrot  ../images/object/natural_object/vegetable/carrot  ...                []
+
+[1 rows x 7 columns]
+cat,                                                       path  ... subordinates_syns
+body_cat  ../images/animate_being/animal/mammal/feline/c...  ...                []
+cat_eye   ../images/animate_being/animal/mammal/feline/c...  ...                []
+cat_nose  ../images/animate_being/animal/mammal/feline/c...  ...                []
+cat_paw   ../images/animate_being/animal/mammal/feline/c...  ...                []
+face_cat  ../images/animate_being/animal/mammal/feline/c...  ...                []
+
+[5 rows x 7 columns]
+caterpillar,                                                               path  ... subordinates_syns
+body_caterpillar  ../images/animate_being/animal/insect/caterpil...  ...                []
+
+[1 rows x 7 columns]
+cauliflower,                                                          path  ... subordinates_syns
+cauliflower  ../images/object/natural_object/vegetable/caul...  ...                []
+
+[1 rows x 7 columns]
+celery,                                                    path  ... subordinates_syns
+celery  ../images/object/natural_object/vegetable/celery  ...                []
+
+[1 rows x 7 columns]
+cellphone,                                                        path  ... subordinates_syns
+cellphone  ../images/object/artifact/electronic_device/ce...  ...                []
+
+[1 rows x 7 columns]
+cereal,                                              path  ... subordinates_syns
+cereal  ../images/object/artifact/food/meal/cereal  ...                []
+
+[1 rows x 7 columns]
+chain,                                          path  ... subordinates_syns
+chain  ../images/object/artifact/jewelry/chain  ...                []
+
+[1 rows x 7 columns]
+chainsaw,                                             path  ... subordinates_syns
+chainsaw  ../images/object/artifact/tool/chainsaw  ...                []
+
+[1 rows x 7 columns]
+chair,                                            path  ... subordinates_syns
+chair  ../images/object/artifact/furniture/chair  ...                []
+
+[1 rows x 7 columns]
+chalk,                                         path  ... subordinates_syns
+chalk  ../images/object/artifact/school/chalk  ...                []
+
+[1 rows x 7 columns]
+chameleon,                                                             path  ... subordinates_syns
+body_chameleon  ../images/animate_being/animal/reptile/chamele...  ...                []
+face_chameleon  ../images/animate_being/animal/reptile/chamele...  ...                []
+
+[2 rows x 7 columns]
+chandelier,                                                       path  ... subordinates_syns
+chandelier  ../images/object/artifact/decoration/chandelier  ...                []
+
+[1 rows x 7 columns]
+checkers,                                             path  ... subordinates_syns
+checkers  ../images/object/artifact/game/checkers  ...                []
+
+[1 rows x 7 columns]
+cherry,                                                path  ... subordinates_syns
+cherry  ../images/object/natural_object/fruit/cherry  ...                []
+
+[1 rows x 7 columns]
+chess,                                       path  ... subordinates_syns
+chess  ../images/object/artifact/game/chess  ...                []
+
+[1 rows x 7 columns]
+chickadee,                                                             path  ... subordinates_syns
+body_chickadee  ../images/animate_being/animal/bird/chickadee/...  ...                []
+
+[1 rows x 7 columns]
+chicken,                                                           path  ... subordinates_syns
+body_chicken   ../images/animate_being/animal/bird/chicken/body  ...                []
+chicken_eye   ../images/animate_being/animal/bird/chicken/bo...  ...                []
+face_chicken   ../images/animate_being/animal/bird/chicken/face  ...                []
+
+[3 rows x 7 columns]
+child,                                                              path  ... subordinates_syns
+child_female_face  ../images/animate_being/human/face/female/child  ...                []
+child_male_face      ../images/animate_being/human/face/male/child  ...                []
+
+[2 rows x 7 columns]
+chime,                                             path  ... subordinates_syns
+chime  ../images/object/artifact/decoration/chime  ...                []
+
+[1 rows x 7 columns]
+chinese_checkers,                                                             path  ... subordinates_syns
+chinese_checkers  ../images/object/artifact/game/chinese_checkers  ...                []
+
+[1 rows x 7 columns]
+christmas_gift,                                                             path  ... subordinates_syns
+christmas_gift  ../images/object/artifact/decoration/christmas...  ...                []
+
+[1 rows x 7 columns]
+christmas_stocking,                                                                 path  ... subordinates_syns
+christmas_stocking  ../images/object/artifact/decoration/christmas...  ...                []
+
+[1 rows x 7 columns]
+christmas_tree,                                                             path  ... subordinates_syns
+christmas_tree  ../images/object/artifact/decoration/christmas...  ...                []
+
+[1 rows x 7 columns]
+clarinet,                                                       path  ... subordinates_syns
+clarinet  ../images/object/artifact/musical_instrument/c...  ...                []
+
+[1 rows x 7 columns]
+clip,                                        path  ... subordinates_syns
+clip  ../images/object/artifact/jewelry/clip  ...                []
+
+[1 rows x 7 columns]
+clipper,                                               path  ... subordinates_syns
+clipper  ../images/object/artifact/bathroom/clipper  ...                []
+
+[1 rows x 7 columns]
+clock,                                             path  ... subordinates_syns
+clock  ../images/object/artifact/decoration/clock  ...                []
+
+[1 rows x 7 columns]
+clothespin,                                                         path  ... subordinates_syns
+clothespin  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+clothing,                                                 path  ... subordinates_syns
+camisole  ../images/object/artifact/clothing/camisole  ...                []
+dress        ../images/object/artifact/clothing/dress  ...                []
+handbag    ../images/object/artifact/clothing/handbag  ...                []
+hat            ../images/object/artifact/clothing/hat  ...                []
+helmet      ../images/object/artifact/clothing/helmet  ...                []
+jacket      ../images/object/artifact/clothing/jacket  ...                []
+mitten      ../images/object/artifact/clothing/mitten  ...                []
+pant          ../images/object/artifact/clothing/pant  ...                []
+pyjama      ../images/object/artifact/clothing/pyjama  ...                []
+scarf        ../images/object/artifact/clothing/scarf  ...                []
+shoe          ../images/object/artifact/clothing/shoe  ...                []
+shorts      ../images/object/artifact/clothing/shorts  ...                []
+skirt        ../images/object/artifact/clothing/skirt  ...                []
+sock          ../images/object/artifact/clothing/sock  ...                []
+t-shirt    ../images/object/artifact/clothing/t-shirt  ...                []
+tuxedo      ../images/object/artifact/clothing/tuxedo  ...                []
+
+[16 rows x 7 columns]
+coffee,                                         path  ... subordinates_syns
+coffee  ../images/object/artifact/food/coffee  ...                []
+
+[1 rows x 7 columns]
+common_iguana,                                                                 path  ... subordinates_syns
+body_common_iguana  ../images/animate_being/animal/reptile/common_...  ...                []
+face_common_iguana  ../images/animate_being/animal/reptile/common_...  ...                []
+
+[2 rows x 7 columns]
+controller,                                                         path  ... subordinates_syns
+controller  ../images/object/artifact/electronic_device/co...  ...                []
+
+[1 rows x 7 columns]
+corkscrew,                                                      path  ... subordinates_syns
+corkscrew  ../images/object/artifact/kitchenware/corkscrew  ...                []
+
+[1 rows x 7 columns]
+corn,                                                path  ... subordinates_syns
+corn  ../images/object/natural_object/vegetable/corn  ...                []
+
+[1 rows x 7 columns]
+cow,                                                       path  ... subordinates_syns
+body_cow     ../images/animate_being/animal/mammal/cow/body  ...                []
+cow_eye   ../images/animate_being/animal/mammal/cow/body...  ...                []
+cow_nose  ../images/animate_being/animal/mammal/cow/body...  ...                []
+face_cow     ../images/animate_being/animal/mammal/cow/face  ...                []
+
+[4 rows x 7 columns]
+coyote,                                                          path  ... subordinates_syns
+body_coyote  ../images/animate_being/animal/mammal/canine/c...  ...                []
+face_coyote  ../images/animate_being/animal/mammal/canine/c...  ...                []
+
+[2 rows x 7 columns]
+cranberry,                                                      path  ... subordinates_syns
+cranberry  ../images/object/natural_object/fruit/cranberry  ...                []
+
+[1 rows x 7 columns]
+crocodile,                                                              path  ... subordinates_syns
+body_crocodile   ../images/animate_being/animal/reptile/crocodi...  ...                []
+crocodile_eye    ../images/animate_being/animal/reptile/crocodi...  ...                []
+crocodile_paw    ../images/animate_being/animal/reptile/crocodi...  ...                []
+crocodile_tail   ../images/animate_being/animal/reptile/crocodi...  ...                []
+crocodile_tooth  ../images/animate_being/animal/reptile/crocodi...  ...                []
+face_crocodile   ../images/animate_being/animal/reptile/crocodi...  ...                []
+
+[6 rows x 7 columns]
+crown,                                          path  ... subordinates_syns
+crown  ../images/object/artifact/jewelry/crown  ...                []
+
+[1 rows x 7 columns]
+crutch,                                                     path  ... subordinates_syns
+crutch  ../images/object/artifact/medical_instrument/c...  ...                []
+
+[1 rows x 7 columns]
+cube,                                     path  ... subordinates_syns
+cube  ../images/object/artifact/game/cube  ...                []
+
+[1 rows x 7 columns]
+cucumber,                                                       path  ... subordinates_syns
+cucumber  ../images/object/natural_object/vegetable/cucu...  ...                []
+
+[1 rows x 7 columns]
+cufflink,                                                path  ... subordinates_syns
+cufflink  ../images/object/artifact/jewelry/cufflink  ...                []
+
+[1 rows x 7 columns]
+cup,                                          path  ... subordinates_syns
+cup  ../images/object/artifact/kitchenware/cup  ...                []
+
+[1 rows x 7 columns]
+curtain,                                                 path  ... subordinates_syns
+curtain  ../images/object/artifact/decoration/curtain  ...                []
+
+[1 rows x 7 columns]
+cushion,                                                 path  ... subordinates_syns
+cushion  ../images/object/artifact/decoration/cushion  ...                []
+
+[1 rows x 7 columns]
+decoration,                                                                 path  ... subordinates_syns
+balloon                  ../images/object/artifact/decoration/balloon  ...                []
+candle                    ../images/object/artifact/decoration/candle  ...                []
+carpet                    ../images/object/artifact/decoration/carpet  ...                []
+chandelier            ../images/object/artifact/decoration/chandelier  ...                []
+chime                      ../images/object/artifact/decoration/chime  ...                []
+christmas_gift      ../images/object/artifact/decoration/christmas...  ...                []
+christmas_stocking  ../images/object/artifact/decoration/christmas...  ...                []
+christmas_tree      ../images/object/artifact/decoration/christmas...  ...                []
+clock                      ../images/object/artifact/decoration/clock  ...                []
+curtain                  ../images/object/artifact/decoration/curtain  ...                []
+cushion                  ../images/object/artifact/decoration/cushion  ...                []
+essential_oil       ../images/object/artifact/decoration/essential...  ...                []
+flowerpot              ../images/object/artifact/decoration/flowerpot  ...                []
+fountain                ../images/object/artifact/decoration/fountain  ...                []
+knocker                  ../images/object/artifact/decoration/knocker  ...                []
+menorah                  ../images/object/artifact/decoration/menorah  ...                []
+
+[16 rows x 7 columns]
+desk,                                          path  ... subordinates_syns
+desk  ../images/object/artifact/furniture/desk  ...                []
+
+[1 rows x 7 columns]
+dice,                                     path  ... subordinates_syns
+dice  ../images/object/artifact/game/dice  ...                []
+
+[1 rows x 7 columns]
+dirt_bike,                                                  path  ... subordinates_syns
+dirt_bike  ../images/object/artifact/vehicle/dirt_bike  ...                []
+
+[1 rows x 7 columns]
+dishwasher,                                                         path  ... subordinates_syns
+dishwasher  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+dog,                                                        path  ... subordinates_syns
+body_dog   ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_ear    ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_eye    ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_nose   ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_paw    ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_tail   ../images/animate_being/animal/mammal/canine/d...  ...                []
+dog_tooth  ../images/animate_being/animal/mammal/canine/d...  ...                []
+face_dog   ../images/animate_being/animal/mammal/canine/d...  ...                []
+
+[8 rows x 7 columns]
+dolphin,                                                           path  ... subordinates_syns
+body_dolphin  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+dolphin_tail  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_dolphin  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+
+[3 rows x 7 columns]
+dragonfly,                                                             path  ... subordinates_syns
+body_dragonfly  ../images/animate_being/animal/insect/dragonfl...  ...                []
+face_dragonfly  ../images/animate_being/animal/insect/dragonfl...  ...                []
+
+[2 rows x 7 columns]
+dress,                                           path  ... subordinates_syns
+dress  ../images/object/artifact/clothing/dress  ...                []
+
+[1 rows x 7 columns]
+dresser,                                                path  ... subordinates_syns
+dresser  ../images/object/artifact/furniture/dresser  ...                []
+
+[1 rows x 7 columns]
+drill,                                       path  ... subordinates_syns
+drill  ../images/object/artifact/tool/drill  ...                []
+
+[1 rows x 7 columns]
+drinking_glass,                                                             path  ... subordinates_syns
+drinking_glass  ../images/object/artifact/kitchenware/drinking...  ...                []
+
+[1 rows x 7 columns]
+drum,                                                   path  ... subordinates_syns
+drum  ../images/object/artifact/musical_instrument/drum  ...                []
+
+[1 rows x 7 columns]
+dryer,                                           path  ... subordinates_syns
+dryer  ../images/object/artifact/bathroom/dryer  ...                []
+
+[1 rows x 7 columns]
+ear,                                                              path  ... subordinates_syns
+bear_ear         ../images/animate_being/animal/mammal/bear/bod...  ...                []
+dog_ear          ../images/animate_being/animal/mammal/canine/d...  ...                []
+ear_hog          ../images/animate_being/animal/mammal/hog/body...  ...                []
+ear_human              ../images/animate_being/human/body_part/ear  ...                []
+elephant_ear     ../images/animate_being/animal/mammal/elephant...  ...                []
+fox_ear          ../images/animate_being/animal/mammal/canine/f...  ...                []
+giant_panda_ear  ../images/animate_being/animal/mammal/giant_pa...  ...                []
+giraffe_ear      ../images/animate_being/animal/mammal/giraffe/...  ...                []
+horse_ear        ../images/animate_being/animal/mammal/horse/bo...  ...                []
+hyena_ear        ../images/animate_being/animal/mammal/canine/h...  ...                []
+monkey_ear       ../images/animate_being/animal/mammal/monkey/b...  ...                []
+rabbit_ear       ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+sheep_ear        ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+tiger_ear        ../images/animate_being/animal/mammal/feline/t...  ...                []
+
+[14 rows x 7 columns]
+earphone,                                                       path  ... subordinates_syns
+earphone  ../images/object/artifact/electronic_device/ea...  ...                []
+
+[1 rows x 7 columns]
+earring,                                              path  ... subordinates_syns
+earring  ../images/object/artifact/jewelry/earring  ...                []
+
+[1 rows x 7 columns]
+egg,                                   path  ... subordinates_syns
+egg  ../images/object/artifact/food/egg  ...                []
+
+[1 rows x 7 columns]
+elder,                                                              path  ... subordinates_syns
+elder_female_face  ../images/animate_being/human/face/female/elder  ...                []
+elder_male_face      ../images/animate_being/human/face/male/elder  ...                []
+
+[2 rows x 7 columns]
+electronic_device,                                                            path  ... subordinates_syns
+camera         ../images/object/artifact/electronic_device/ca...  ...                []
+cellphone      ../images/object/artifact/electronic_device/ce...  ...                []
+controller     ../images/object/artifact/electronic_device/co...  ...                []
+earphone       ../images/object/artifact/electronic_device/ea...  ...                []
+headphone      ../images/object/artifact/electronic_device/he...  ...                []
+keyboard       ../images/object/artifact/electronic_device/ke...  ...                []
+laptop         ../images/object/artifact/electronic_device/la...  ...                []
+microphone     ../images/object/artifact/electronic_device/mi...  ...                []
+mouse          ../images/object/artifact/electronic_device/mouse  ...                []
+printer        ../images/object/artifact/electronic_device/pr...  ...                []
+radio          ../images/object/artifact/electronic_device/radio  ...                []
+remote         ../images/object/artifact/electronic_device/re...  ...                []
+speaker        ../images/object/artifact/electronic_device/sp...  ...                []
+television     ../images/object/artifact/electronic_device/te...  ...                []
+video_game     ../images/object/artifact/electronic_device/vi...  ...                []
+walkie-talkie  ../images/object/artifact/electronic_device/wa...  ...                []
+
+[16 rows x 7 columns]
+elephant,                                                             path  ... subordinates_syns
+body_elephant   ../images/animate_being/animal/mammal/elephant...  ...                []
+elephant_ear    ../images/animate_being/animal/mammal/elephant...  ...                []
+elephant_eye    ../images/animate_being/animal/mammal/elephant...  ...                []
+elephant_paw    ../images/animate_being/animal/mammal/elephant...  ...                []
+elephant_tail   ../images/animate_being/animal/mammal/elephant...  ...                []
+elephant_trunk  ../images/animate_being/animal/mammal/elephant...  ...                []
+face_elephant   ../images/animate_being/animal/mammal/elephant...  ...                []
+
+[7 rows x 7 columns]
+elk,                                                       path  ... subordinates_syns
+body_elk     ../images/animate_being/animal/mammal/elk/body  ...                []
+eye_elk   ../images/animate_being/animal/mammal/elk/body...  ...                []
+face_elk     ../images/animate_being/animal/mammal/elk/face  ...                []
+
+[3 rows x 7 columns]
+eraser,                                           path  ... subordinates_syns
+eraser  ../images/object/artifact/school/eraser  ...                []
+
+[1 rows x 7 columns]
+essential_oil,                                                            path  ... subordinates_syns
+essential_oil  ../images/object/artifact/decoration/essential...  ...                []
+
+[1 rows x 7 columns]
+eye,                                                               path  ... subordinates_syns
+bear_eye          ../images/animate_being/animal/mammal/bear/bod...  ...                []
+blue_jay_eye      ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+cat_eye           ../images/animate_being/animal/mammal/feline/c...  ...                []
+chicken_eye       ../images/animate_being/animal/bird/chicken/bo...  ...                []
+cow_eye           ../images/animate_being/animal/mammal/cow/body...  ...                []
+crocodile_eye     ../images/animate_being/animal/reptile/crocodi...  ...                []
+dog_eye           ../images/animate_being/animal/mammal/canine/d...  ...                []
+elephant_eye      ../images/animate_being/animal/mammal/elephant...  ...                []
+eye_elk           ../images/animate_being/animal/mammal/elk/body...  ...                []
+eye_hog           ../images/animate_being/animal/mammal/hog/body...  ...                []
+eye_human               ../images/animate_being/human/body_part/eye  ...                []
+eye_white_whale   ../images/animate_being/animal/mammal/aquatic_...  ...                []
+giraffe_eye       ../images/animate_being/animal/mammal/giraffe/...  ...                []
+hippopotamus_eye  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+horse_eye         ../images/animate_being/animal/mammal/horse/bo...  ...                []
+koala_eye         ../images/animate_being/animal/mammal/koala/bo...  ...                []
+leopard_eye       ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_eye          ../images/animate_being/animal/mammal/feline/l...  ...                []
+lizard_eye        ../images/animate_being/animal/reptile/lizard/...  ...                []
+lynx_eye          ../images/animate_being/animal/mammal/feline/l...  ...                []
+monkey_eye        ../images/animate_being/animal/mammal/monkey/b...  ...                []
+owl_eye           ../images/animate_being/animal/bird/owl/body_p...  ...                []
+parrot_eye        ../images/animate_being/animal/bird/parrot/bod...  ...                []
+peacock_eye       ../images/animate_being/animal/bird/peacock/bo...  ...                []
+rabbit_eye        ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+sheep_eye         ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+snake_eye         ../images/animate_being/animal/reptile/snake/b...  ...                []
+squirrel_eye      ../images/animate_being/animal/mammal/squirrel...  ...                []
+tiger_eye         ../images/animate_being/animal/mammal/feline/t...  ...                []
+
+[29 rows x 7 columns]
+face,                                                                     path  ... subordinates_syns
+adolescent_female_face  ../images/animate_being/human/face/female/adol...  ...                []
+adolescent_male_face    ../images/animate_being/human/face/male/adoles...  ...                []
+adult_female_face         ../images/animate_being/human/face/female/adult  ...                []
+adult_male_face             ../images/animate_being/human/face/male/adult  ...                []
+baby_female_face           ../images/animate_being/human/face/female/baby  ...                []
+baby_male_face               ../images/animate_being/human/face/male/baby  ...                []
+child_female_face         ../images/animate_being/human/face/female/child  ...                []
+child_male_face             ../images/animate_being/human/face/male/child  ...                []
+elder_female_face         ../images/animate_being/human/face/female/elder  ...                []
+elder_male_face             ../images/animate_being/human/face/male/elder  ...                []
+face_bear                 ../images/animate_being/animal/mammal/bear/face  ...                []
+face_beaver             ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_bee                   ../images/animate_being/animal/insect/bee/face  ...                []
+face_blue_jay           ../images/animate_being/animal/bird/blue_jay/face  ...                []
+face_cardinal           ../images/animate_being/animal/bird/cardinal/face  ...                []
+face_cat                ../images/animate_being/animal/mammal/feline/c...  ...                []
+face_chameleon          ../images/animate_being/animal/reptile/chamele...  ...                []
+face_chicken             ../images/animate_being/animal/bird/chicken/face  ...                []
+face_common_iguana      ../images/animate_being/animal/reptile/common_...  ...                []
+face_cow                   ../images/animate_being/animal/mammal/cow/face  ...                []
+face_coyote             ../images/animate_being/animal/mammal/canine/c...  ...                []
+face_crocodile          ../images/animate_being/animal/reptile/crocodi...  ...                []
+face_dog                ../images/animate_being/animal/mammal/canine/d...  ...                []
+face_dolphin            ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_dragonfly          ../images/animate_being/animal/insect/dragonfl...  ...                []
+face_elephant           ../images/animate_being/animal/mammal/elephant...  ...                []
+face_elk                   ../images/animate_being/animal/mammal/elk/face  ...                []
+face_falcon               ../images/animate_being/animal/bird/falcon/face  ...                []
+face_fly                   ../images/animate_being/animal/insect/fly/face  ...                []
+face_fox                ../images/animate_being/animal/mammal/canine/f...  ...                []
+...                                                                   ...  ...               ...
+face_hog                   ../images/animate_being/animal/mammal/hog/face  ...                []
+face_horse               ../images/animate_being/animal/mammal/horse/face  ...                []
+face_hyena              ../images/animate_being/animal/mammal/canine/h...  ...                []
+face_koala               ../images/animate_being/animal/mammal/koala/face  ...                []
+face_leopard            ../images/animate_being/animal/mammal/feline/l...  ...                []
+face_lion               ../images/animate_being/animal/mammal/feline/l...  ...                []
+face_lizard             ../images/animate_being/animal/reptile/lizard/...  ...                []
+face_lynx               ../images/animate_being/animal/mammal/feline/l...  ...                []
+face_marauder           ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_monkey             ../images/animate_being/animal/mammal/monkey/face  ...                []
+face_owl                     ../images/animate_being/animal/bird/owl/face  ...                []
+face_parrot               ../images/animate_being/animal/bird/parrot/face  ...                []
+face_peacock             ../images/animate_being/animal/bird/peacock/face  ...                []
+face_penguin             ../images/animate_being/animal/bird/penguin/face  ...                []
+face_rabbit             ../images/animate_being/animal/mammal/rabbit/face  ...                []
+face_raccoon            ../images/animate_being/animal/mammal/raccoon/...  ...                []
+face_sea_lion           ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_seal               ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_sheep               ../images/animate_being/animal/mammal/sheep/face  ...                []
+face_snake              ../images/animate_being/animal/reptile/snake/face  ...                []
+face_sparrow             ../images/animate_being/animal/bird/sparrow/face  ...                []
+face_squirrel           ../images/animate_being/animal/mammal/squirrel...  ...                []
+face_swan                   ../images/animate_being/animal/bird/swan/face  ...                []
+face_tiger              ../images/animate_being/animal/mammal/feline/t...  ...                []
+face_turtle             ../images/animate_being/animal/reptile/turtle/...  ...                []
+face_walrus             ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_whale              ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_white_whale        ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_wolf               ../images/animate_being/animal/mammal/canine/w...  ...                []
+killer_whale            ../images/animate_being/animal/mammal/aquatic_...  ...                []
+
+[65 rows x 7 columns]
+falcon,                                                        path  ... subordinates_syns
+body_falcon  ../images/animate_being/animal/bird/falcon/body  ...                []
+face_falcon  ../images/animate_being/animal/bird/falcon/face  ...                []
+
+[2 rows x 7 columns]
+fan,                                                  path  ... subordinates_syns
+fan  ../images/object/artifact/household_appliance/fan  ...                []
+
+[1 rows x 7 columns]
+feline,                                                           path  ... subordinates_syns
+body_cat      ../images/animate_being/animal/mammal/feline/c...  ...                []
+body_leopard  ../images/animate_being/animal/mammal/feline/l...  ...                []
+body_lion     ../images/animate_being/animal/mammal/feline/l...  ...                []
+body_lynx     ../images/animate_being/animal/mammal/feline/l...  ...                []
+body_tiger    ../images/animate_being/animal/mammal/feline/t...  ...                []
+cat_eye       ../images/animate_being/animal/mammal/feline/c...  ...                []
+cat_nose      ../images/animate_being/animal/mammal/feline/c...  ...                []
+cat_paw       ../images/animate_being/animal/mammal/feline/c...  ...                []
+face_cat      ../images/animate_being/animal/mammal/feline/c...  ...                []
+face_leopard  ../images/animate_being/animal/mammal/feline/l...  ...                []
+face_lion     ../images/animate_being/animal/mammal/feline/l...  ...                []
+face_lynx     ../images/animate_being/animal/mammal/feline/l...  ...                []
+face_tiger    ../images/animate_being/animal/mammal/feline/t...  ...                []
+leopard_eye   ../images/animate_being/animal/mammal/feline/l...  ...                []
+leopard_nose  ../images/animate_being/animal/mammal/feline/l...  ...                []
+leopard_paw   ../images/animate_being/animal/mammal/feline/l...  ...                []
+leopard_tail  ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_eye      ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_nose     ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_paw      ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_tail     ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_tooth    ../images/animate_being/animal/mammal/feline/l...  ...                []
+lynx_eye      ../images/animate_being/animal/mammal/feline/l...  ...                []
+lynx_paw      ../images/animate_being/animal/mammal/feline/l...  ...                []
+lynx_tooth    ../images/animate_being/animal/mammal/feline/l...  ...                []
+tiger_ear     ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_eye     ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_nose    ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_paw     ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_tail    ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_tooth   ../images/animate_being/animal/mammal/feline/t...  ...                []
+
+[31 rows x 7 columns]
+female,                                                                     path  ... subordinates_syns
+adolescent_female_face  ../images/animate_being/human/face/female/adol...  ...                []
+adult_female_face         ../images/animate_being/human/face/female/adult  ...                []
+baby_female_face           ../images/animate_being/human/face/female/baby  ...                []
+child_female_face         ../images/animate_being/human/face/female/child  ...                []
+elder_female_face         ../images/animate_being/human/face/female/elder  ...                []
+
+[5 rows x 7 columns]
+ferris_wheel,                                                     path  ... subordinates_syns
+ferris_wheel  ../images/object/artifact/game/ferris_wheel  ...                []
+
+[1 rows x 7 columns]
+filing_cabinet,                                                             path  ... subordinates_syns
+filing_cabinet  ../images/object/artifact/furniture/filing_cab...  ...                []
+
+[1 rows x 7 columns]
+fire_truck,                                                    path  ... subordinates_syns
+fire_truck  ../images/object/artifact/vehicle/fire_truck  ...                []
+
+[1 rows x 7 columns]
+first_aid,                                                        path  ... subordinates_syns
+first_aid  ../images/object/artifact/medical_instrument/f...  ...                []
+
+[1 rows x 7 columns]
+fish,                                                                     path  ... subordinates_syns
+body_anemone_fish       ../images/animate_being/animal/fish/anemone_fi...  ...                []
+body_butterfly_fish     ../images/animate_being/animal/fish/butterfly_...  ...                []
+body_great_white_shark  ../images/animate_being/animal/fish/great_whit...  ...                []
+body_lionfish           ../images/animate_being/animal/fish/lionfish/body  ...                []
+body_moray                 ../images/animate_being/animal/fish/moray/body  ...                []
+body_piranha             ../images/animate_being/animal/fish/piranha/body  ...                []
+body_ray                     ../images/animate_being/animal/fish/ray/body  ...                []
+body_seahorse           ../images/animate_being/animal/fish/seahorse/body  ...                []
+body_surgeonfish        ../images/animate_being/animal/fish/surgeonfis...  ...                []
+body_trout                 ../images/animate_being/animal/fish/trout/body  ...                []
+face_great_white_shark  ../images/animate_being/animal/fish/great_whit...  ...                []
+
+[11 rows x 7 columns]
+fish_filet,                                                      path  ... subordinates_syns
+fish_filet  ../images/object/artifact/food/meal/fish_filet  ...                []
+
+[1 rows x 7 columns]
+fishing_rod,                                                          path  ... subordinates_syns
+fishing_rod  ../images/object/artifact/outdoor_sport/fishin...  ...                []
+
+[1 rows x 7 columns]
+flamingo,                                                            path  ... subordinates_syns
+body_flamingo  ../images/animate_being/animal/bird/flamingo/body  ...                []
+face_flamingo  ../images/animate_being/animal/bird/flamingo/f...  ...                []
+
+[2 rows x 7 columns]
+flatiron,                                                 path  ... subordinates_syns
+flatiron  ../images/object/artifact/bathroom/flatiron  ...                []
+
+[1 rows x 7 columns]
+flowerpot,                                                     path  ... subordinates_syns
+flowerpot  ../images/object/artifact/decoration/flowerpot  ...                []
+
+[1 rows x 7 columns]
+flute,                                                    path  ... subordinates_syns
+flute  ../images/object/artifact/musical_instrument/f...  ...                []
+
+[1 rows x 7 columns]
+fly,                                                    path  ... subordinates_syns
+body_fly  ../images/animate_being/animal/insect/fly/body  ...                []
+face_fly  ../images/animate_being/animal/insect/fly/face  ...                []
+
+[2 rows x 7 columns]
+food,                                                         path  ... subordinates_syns
+bagel                    ../images/object/artifact/food/bagel  ...                []
+bread                    ../images/object/artifact/food/bread  ...                []
+burger             ../images/object/artifact/food/meal/burger  ...                []
+cereal             ../images/object/artifact/food/meal/cereal  ...                []
+coffee                  ../images/object/artifact/food/coffee  ...                []
+egg                        ../images/object/artifact/food/egg  ...                []
+fish_filet     ../images/object/artifact/food/meal/fish_filet  ...                []
+french_fries      ../images/object/artifact/food/french_fries  ...                []
+fruit_salad   ../images/object/artifact/food/meal/fruit_salad  ...                []
+ice_cream            ../images/object/artifact/food/ice_cream  ...                []
+muffin                  ../images/object/artifact/food/muffin  ...                []
+pizza               ../images/object/artifact/food/meal/pizza  ...                []
+poultry           ../images/object/artifact/food/meal/poultry  ...                []
+salad               ../images/object/artifact/food/meal/salad  ...                []
+sandwich         ../images/object/artifact/food/meal/sandwich  ...                []
+soup                 ../images/object/artifact/food/meal/soup  ...                []
+
+[16 rows x 7 columns]
+foot,                                                    path  ... subordinates_syns
+foot_human  ../images/animate_being/human/body_part/foot  ...                []
+
+[1 rows x 7 columns]
+football,                                                      path  ... subordinates_syns
+football  ../images/object/artifact/outdoor_sport/football  ...                []
+
+[1 rows x 7 columns]
+fork,                                            path  ... subordinates_syns
+fork  ../images/object/artifact/kitchenware/fork  ...                []
+
+[1 rows x 7 columns]
+fountain,                                                   path  ... subordinates_syns
+fountain  ../images/object/artifact/decoration/fountain  ...                []
+
+[1 rows x 7 columns]
+fox,                                                       path  ... subordinates_syns
+body_fox  ../images/animate_being/animal/mammal/canine/f...  ...                []
+face_fox  ../images/animate_being/animal/mammal/canine/f...  ...                []
+fox_ear   ../images/animate_being/animal/mammal/canine/f...  ...                []
+fox_tail  ../images/animate_being/animal/mammal/canine/f...  ...                []
+
+[4 rows x 7 columns]
+french_fries,                                                     path  ... subordinates_syns
+french_fries  ../images/object/artifact/food/french_fries  ...                []
+
+[1 rows x 7 columns]
+fridge,                                                path  ... subordinates_syns
+fridge  ../images/object/artifact/kitchenware/fridge  ...                []
+
+[1 rows x 7 columns]
+fruit,                                                        path  ... subordinates_syns
+apple            ../images/object/natural_object/fruit/apple  ...                []
+banana          ../images/object/natural_object/fruit/banana  ...                []
+cherry          ../images/object/natural_object/fruit/cherry  ...                []
+cranberry    ../images/object/natural_object/fruit/cranberry  ...                []
+grape            ../images/object/natural_object/fruit/grape  ...                []
+grapefruit  ../images/object/natural_object/fruit/grapefruit  ...                []
+kiwi              ../images/object/natural_object/fruit/kiwi  ...                []
+lemon            ../images/object/natural_object/fruit/lemon  ...                []
+mango            ../images/object/natural_object/fruit/mango  ...                []
+melon            ../images/object/natural_object/fruit/melon  ...                []
+peach            ../images/object/natural_object/fruit/peach  ...                []
+pear              ../images/object/natural_object/fruit/pear  ...                []
+pineapple    ../images/object/natural_object/fruit/pineapple  ...                []
+pitahaya      ../images/object/natural_object/fruit/pitahaya  ...                []
+raspberry    ../images/object/natural_object/fruit/raspberry  ...                []
+strawberry  ../images/object/natural_object/fruit/strawberry  ...                []
+
+[16 rows x 7 columns]
+fruit_salad,                                                        path  ... subordinates_syns
+fruit_salad  ../images/object/artifact/food/meal/fruit_salad  ...                []
+
+[1 rows x 7 columns]
+furniture,                                                             path  ... subordinates_syns
+armchair             ../images/object/artifact/furniture/armchair  ...                []
+bed                       ../images/object/artifact/furniture/bed  ...                []
+bench                   ../images/object/artifact/furniture/bench  ...                []
+bookshelf           ../images/object/artifact/furniture/bookshelf  ...                []
+buffet                 ../images/object/artifact/furniture/buffet  ...                []
+cabinet               ../images/object/artifact/furniture/cabinet  ...                []
+chair                   ../images/object/artifact/furniture/chair  ...                []
+desk                     ../images/object/artifact/furniture/desk  ...                []
+dresser               ../images/object/artifact/furniture/dresser  ...                []
+filing_cabinet  ../images/object/artifact/furniture/filing_cab...  ...                []
+lamp                     ../images/object/artifact/furniture/lamp  ...                []
+pouffe                 ../images/object/artifact/furniture/pouffe  ...                []
+rocking_chair   ../images/object/artifact/furniture/rocking_chair  ...                []
+sofa                     ../images/object/artifact/furniture/sofa  ...                []
+stool                   ../images/object/artifact/furniture/stool  ...                []
+table                   ../images/object/artifact/furniture/table  ...                []
+
+[16 rows x 7 columns]
+game,                                                             path  ... subordinates_syns
+beach_ball              ../images/object/artifact/game/beach_ball  ...                []
+billiards                ../images/object/artifact/game/billiards  ...                []
+bowling                    ../images/object/artifact/game/bowling  ...                []
+checkers                  ../images/object/artifact/game/checkers  ...                []
+chess                        ../images/object/artifact/game/chess  ...                []
+chinese_checkers  ../images/object/artifact/game/chinese_checkers  ...                []
+cube                          ../images/object/artifact/game/cube  ...                []
+dice                          ../images/object/artifact/game/dice  ...                []
+ferris_wheel          ../images/object/artifact/game/ferris_wheel  ...                []
+hula-hoop                ../images/object/artifact/game/hula-hoop  ...                []
+kite                          ../images/object/artifact/game/kite  ...                []
+marble                      ../images/object/artifact/game/marble  ...                []
+miniature_golf      ../images/object/artifact/game/miniature_golf  ...                []
+puzzle                      ../images/object/artifact/game/puzzle  ...                []
+slide                        ../images/object/artifact/game/slide  ...                []
+swing                        ../images/object/artifact/game/swing  ...                []
+
+[16 rows x 7 columns]
+giant_panda,                                                               path  ... subordinates_syns
+body_giant_panda  ../images/animate_being/animal/mammal/giant_pa...  ...                []
+face_giant_panda  ../images/animate_being/animal/mammal/giant_pa...  ...                []
+giant_panda_ear   ../images/animate_being/animal/mammal/giant_pa...  ...                []
+
+[3 rows x 7 columns]
+giraffe,                                                           path  ... subordinates_syns
+body_giraffe  ../images/animate_being/animal/mammal/giraffe/...  ...                []
+face_giraffe  ../images/animate_being/animal/mammal/giraffe/...  ...                []
+giraffe_ear   ../images/animate_being/animal/mammal/giraffe/...  ...                []
+giraffe_eye   ../images/animate_being/animal/mammal/giraffe/...  ...                []
+giraffe_nose  ../images/animate_being/animal/mammal/giraffe/...  ...                []
+giraffe_paw   ../images/animate_being/animal/mammal/giraffe/...  ...                []
+
+[6 rows x 7 columns]
+glasses,                                                      path  ... subordinates_syns
+glasses  ../images/object/artifact/medical_instrument/g...  ...                []
+
+[1 rows x 7 columns]
+glider,                                                  path  ... subordinates_syns
+glider  ../images/object/artifact/outdoor_sport/glider  ...                []
+
+[1 rows x 7 columns]
+glove,                                                    path  ... subordinates_syns
+glove  ../images/object/artifact/medical_instrument/g...  ...                []
+
+[1 rows x 7 columns]
+golf_ball,                                                        path  ... subordinates_syns
+golf_ball  ../images/object/artifact/outdoor_sport/golf_ball  ...                []
+
+[1 rows x 7 columns]
+gong,                                                   path  ... subordinates_syns
+gong  ../images/object/artifact/musical_instrument/gong  ...                []
+
+[1 rows x 7 columns]
+grape,                                              path  ... subordinates_syns
+grape  ../images/object/natural_object/fruit/grape  ...                []
+
+[1 rows x 7 columns]
+grapefruit,                                                        path  ... subordinates_syns
+grapefruit  ../images/object/natural_object/fruit/grapefruit  ...                []
+
+[1 rows x 7 columns]
+grasshopper,                                                               path  ... subordinates_syns
+body_grasshopper  ../images/animate_being/animal/insect/grasshop...  ...                []
+
+[1 rows x 7 columns]
+grater,                                                path  ... subordinates_syns
+grater  ../images/object/artifact/kitchenware/grater  ...                []
+
+[1 rows x 7 columns]
+great_white_shark,                                                                     path  ... subordinates_syns
+body_great_white_shark  ../images/animate_being/animal/fish/great_whit...  ...                []
+face_great_white_shark  ../images/animate_being/animal/fish/great_whit...  ...                []
+
+[2 rows x 7 columns]
+guitar,                                                     path  ... subordinates_syns
+guitar  ../images/object/artifact/musical_instrument/g...  ...                []
+
+[1 rows x 7 columns]
+hair,                                                    path  ... subordinates_syns
+hair_human  ../images/animate_being/human/body_part/hair  ...                []
+
+[1 rows x 7 columns]
+hair_dryer,                                                     path  ... subordinates_syns
+hair_dryer  ../images/object/artifact/bathroom/hair_dryer  ...                []
+
+[1 rows x 7 columns]
+hairbrush,                                                   path  ... subordinates_syns
+hairbrush  ../images/object/artifact/bathroom/hairbrush  ...                []
+
+[1 rows x 7 columns]
+hammer,                                         path  ... subordinates_syns
+hammer  ../images/object/artifact/tool/hammer  ...                []
+
+[1 rows x 7 columns]
+hammock,                                                    path  ... subordinates_syns
+hammock  ../images/object/artifact/outdoor_sport/hammock  ...                []
+
+[1 rows x 7 columns]
+hand,                                                          path  ... subordinates_syns
+hand_human        ../images/animate_being/human/body_part/hand  ...                []
+monkey_hand  ../images/animate_being/animal/mammal/monkey/b...  ...                []
+
+[2 rows x 7 columns]
+handbag,                                               path  ... subordinates_syns
+handbag  ../images/object/artifact/clothing/handbag  ...                []
+
+[1 rows x 7 columns]
+harmonica,                                                        path  ... subordinates_syns
+harmonica  ../images/object/artifact/musical_instrument/h...  ...                []
+
+[1 rows x 7 columns]
+harp,                                                   path  ... subordinates_syns
+harp  ../images/object/artifact/musical_instrument/harp  ...                []
+
+[1 rows x 7 columns]
+hat,                                       path  ... subordinates_syns
+hat  ../images/object/artifact/clothing/hat  ...                []
+
+[1 rows x 7 columns]
+headphone,                                                        path  ... subordinates_syns
+headphone  ../images/object/artifact/electronic_device/he...  ...                []
+
+[1 rows x 7 columns]
+helmet,                                             path  ... subordinates_syns
+helmet  ../images/object/artifact/clothing/helmet  ...                []
+
+[1 rows x 7 columns]
+heron,                                                      path  ... subordinates_syns
+body_heron  ../images/animate_being/animal/bird/heron/body  ...                []
+face_heron  ../images/animate_being/animal/bird/heron/face  ...                []
+
+[2 rows x 7 columns]
+hippopotamus,                                                                 path  ... subordinates_syns
+body_hippopotamus   ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_hippopotamus   ../images/animate_being/animal/mammal/aquatic_...  ...                []
+hippopotamus_eye    ../images/animate_being/animal/mammal/aquatic_...  ...                []
+hippopotamus_tooth  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+
+[4 rows x 7 columns]
+hog,                                                       path  ... subordinates_syns
+body_hog     ../images/animate_being/animal/mammal/hog/body  ...                []
+ear_hog   ../images/animate_being/animal/mammal/hog/body...  ...                []
+eye_hog   ../images/animate_being/animal/mammal/hog/body...  ...                []
+face_hog     ../images/animate_being/animal/mammal/hog/face  ...                []
+nose_hog  ../images/animate_being/animal/mammal/hog/body...  ...                []
+tail_hog  ../images/animate_being/animal/mammal/hog/body...  ...                []
+
+[6 rows x 7 columns]
+hoof,                                                         path  ... subordinates_syns
+horse_hoof  ../images/animate_being/animal/mammal/horse/bo...  ...                []
+
+[1 rows x 7 columns]
+horse,                                                          path  ... subordinates_syns
+body_horse    ../images/animate_being/animal/mammal/horse/body  ...                []
+face_horse    ../images/animate_being/animal/mammal/horse/face  ...                []
+horse_ear    ../images/animate_being/animal/mammal/horse/bo...  ...                []
+horse_eye    ../images/animate_being/animal/mammal/horse/bo...  ...                []
+horse_hoof   ../images/animate_being/animal/mammal/horse/bo...  ...                []
+horse_nose   ../images/animate_being/animal/mammal/horse/bo...  ...                []
+horse_tail   ../images/animate_being/animal/mammal/horse/bo...  ...                []
+horse_tooth  ../images/animate_being/animal/mammal/horse/bo...  ...                []
+
+[8 rows x 7 columns]
+household_appliance,                                                              path  ... subordinates_syns
+air_conditioner  ../images/object/artifact/household_appliance/...  ...                []
+broom            ../images/object/artifact/household_appliance/...  ...                []
+brush            ../images/object/artifact/household_appliance/...  ...                []
+bucket           ../images/object/artifact/household_appliance/...  ...                []
+clothespin       ../images/object/artifact/household_appliance/...  ...                []
+dishwasher       ../images/object/artifact/household_appliance/...  ...                []
+fan              ../images/object/artifact/household_appliance/fan  ...                []
+glove            ../images/object/artifact/household_appliance/...  ...                []
+laundry_basket   ../images/object/artifact/household_appliance/...  ...                []
+mop              ../images/object/artifact/household_appliance/mop  ...                []
+scouring_pad     ../images/object/artifact/household_appliance/...  ...                []
+sewing_machine   ../images/object/artifact/household_appliance/...  ...                []
+steam_iron       ../images/object/artifact/household_appliance/...  ...                []
+trash_can        ../images/object/artifact/household_appliance/...  ...                []
+vacuum_cleaner   ../images/object/artifact/household_appliance/...  ...                []
+washer           ../images/object/artifact/household_appliance/...  ...                []
+
+[16 rows x 7 columns]
+hula-hoop,                                               path  ... subordinates_syns
+hula-hoop  ../images/object/artifact/game/hula-hoop  ...                []
+
+[1 rows x 7 columns]
+human,                                                                     path  ... subordinates_syns
+adolescent_female_face  ../images/animate_being/human/face/female/adol...  ...                []
+adolescent_male_face    ../images/animate_being/human/face/male/adoles...  ...                []
+adult_female_face         ../images/animate_being/human/face/female/adult  ...                []
+adult_male_face             ../images/animate_being/human/face/male/adult  ...                []
+arm_human                     ../images/animate_being/human/body_part/arm  ...                []
+baby_female_face           ../images/animate_being/human/face/female/baby  ...                []
+baby_male_face               ../images/animate_being/human/face/male/baby  ...                []
+child_female_face         ../images/animate_being/human/face/female/child  ...                []
+child_male_face             ../images/animate_being/human/face/male/child  ...                []
+ear_human                     ../images/animate_being/human/body_part/ear  ...                []
+elder_female_face         ../images/animate_being/human/face/female/elder  ...                []
+elder_male_face             ../images/animate_being/human/face/male/elder  ...                []
+eye_human                     ../images/animate_being/human/body_part/eye  ...                []
+foot_human                   ../images/animate_being/human/body_part/foot  ...                []
+hair_human                   ../images/animate_being/human/body_part/hair  ...                []
+hand_human                   ../images/animate_being/human/body_part/hand  ...                []
+leg_human                     ../images/animate_being/human/body_part/leg  ...                []
+mouth_human                 ../images/animate_being/human/body_part/mouth  ...                []
+nose_human                   ../images/animate_being/human/body_part/nose  ...                []
+tongue_human               ../images/animate_being/human/body_part/tongue  ...                []
+tooth_human                 ../images/animate_being/human/body_part/tooth  ...                []
+
+[21 rows x 7 columns]
+hummingbird,                                                               path  ... subordinates_syns
+body_hummingbird  ../images/animate_being/animal/bird/hummingbir...  ...                []
+
+[1 rows x 7 columns]
+hunting_knife,                                                       path  ... subordinates_syns
+hunting_knife  ../images/object/artifact/tool/hunting_knife  ...                []
+
+[1 rows x 7 columns]
+hyena,                                                         path  ... subordinates_syns
+body_hyena  ../images/animate_being/animal/mammal/canine/h...  ...                []
+face_hyena  ../images/animate_being/animal/mammal/canine/h...  ...                []
+hyena_ear   ../images/animate_being/animal/mammal/canine/h...  ...                []
+
+[3 rows x 7 columns]
+ice_cream,                                               path  ... subordinates_syns
+ice_cream  ../images/object/artifact/food/ice_cream  ...                []
+
+[1 rows x 7 columns]
+insect,                                                               path  ... subordinates_syns
+body_ant             ../images/animate_being/animal/insect/ant/body  ...                []
+body_bee             ../images/animate_being/animal/insect/bee/body  ...                []
+body_beetle       ../images/animate_being/animal/insect/beetle/body  ...                []
+body_butterfly    ../images/animate_being/animal/insect/butterfl...  ...                []
+body_caterpillar  ../images/animate_being/animal/insect/caterpil...  ...                []
+body_dragonfly    ../images/animate_being/animal/insect/dragonfl...  ...                []
+body_fly             ../images/animate_being/animal/insect/fly/body  ...                []
+body_grasshopper  ../images/animate_being/animal/insect/grasshop...  ...                []
+body_ladybug      ../images/animate_being/animal/insect/ladybug/...  ...                []
+face_bee             ../images/animate_being/animal/insect/bee/face  ...                []
+face_dragonfly    ../images/animate_being/animal/insect/dragonfl...  ...                []
+face_fly             ../images/animate_being/animal/insect/fly/face  ...                []
+
+[12 rows x 7 columns]
+jacket,                                             path  ... subordinates_syns
+jacket  ../images/object/artifact/clothing/jacket  ...                []
+
+[1 rows x 7 columns]
+jewelry,                                                            path  ... subordinates_syns
+anklet                  ../images/object/artifact/jewelry/anklet  ...                []
+bracelet              ../images/object/artifact/jewelry/bracelet  ...                []
+chain                    ../images/object/artifact/jewelry/chain  ...                []
+clip                      ../images/object/artifact/jewelry/clip  ...                []
+crown                    ../images/object/artifact/jewelry/crown  ...                []
+cufflink              ../images/object/artifact/jewelry/cufflink  ...                []
+earring                ../images/object/artifact/jewelry/earring  ...                []
+medal                    ../images/object/artifact/jewelry/medal  ...                []
+necklace              ../images/object/artifact/jewelry/necklace  ...                []
+nose_ring            ../images/object/artifact/jewelry/nose_ring  ...                []
+pendant                ../images/object/artifact/jewelry/pendant  ...                []
+precious_stone  ../images/object/artifact/jewelry/precious_stone  ...                []
+ring                      ../images/object/artifact/jewelry/ring  ...                []
+rosary                  ../images/object/artifact/jewelry/rosary  ...                []
+sunglasses          ../images/object/artifact/jewelry/sunglasses  ...                []
+watch                    ../images/object/artifact/jewelry/watch  ...                []
+
+[16 rows x 7 columns]
+kayak,                                                path  ... subordinates_syns
+kayak  ../images/object/artifact/outdoor_sport/kayak  ...                []
+
+[1 rows x 7 columns]
+keyboard,                                                       path  ... subordinates_syns
+keyboard  ../images/object/artifact/electronic_device/ke...  ...                []
+
+[1 rows x 7 columns]
+killer_whale,                                                                path  ... subordinates_syns
+body_killer_whale  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+killer_whale       ../images/animate_being/animal/mammal/aquatic_...  ...                []
+
+[2 rows x 7 columns]
+kitchenware,                                                             path  ... subordinates_syns
+bottle_opener   ../images/object/artifact/kitchenware/bottle_o...  ...                []
+butter_knife    ../images/object/artifact/kitchenware/butter_k...  ...                []
+corkscrew         ../images/object/artifact/kitchenware/corkscrew  ...                []
+cup                     ../images/object/artifact/kitchenware/cup  ...                []
+drinking_glass  ../images/object/artifact/kitchenware/drinking...  ...                []
+fork                   ../images/object/artifact/kitchenware/fork  ...                []
+fridge               ../images/object/artifact/kitchenware/fridge  ...                []
+grater               ../images/object/artifact/kitchenware/grater  ...                []
+knife                 ../images/object/artifact/kitchenware/knife  ...                []
+ladle                 ../images/object/artifact/kitchenware/ladle  ...                []
+oven                   ../images/object/artifact/kitchenware/oven  ...                []
+peeler               ../images/object/artifact/kitchenware/peeler  ...                []
+plate                 ../images/object/artifact/kitchenware/plate  ...                []
+tablespoon       ../images/object/artifact/kitchenware/tablespoon  ...                []
+teapot               ../images/object/artifact/kitchenware/teapot  ...                []
+whisk                 ../images/object/artifact/kitchenware/whisk  ...                []
+
+[16 rows x 7 columns]
+kite,                                     path  ... subordinates_syns
+kite  ../images/object/artifact/game/kite  ...                []
+
+[1 rows x 7 columns]
+kiwi,                                            path  ... subordinates_syns
+kiwi  ../images/object/natural_object/fruit/kiwi  ...                []
+
+[1 rows x 7 columns]
+knife,                                              path  ... subordinates_syns
+knife  ../images/object/artifact/kitchenware/knife  ...                []
+
+[1 rows x 7 columns]
+knocker,                                                 path  ... subordinates_syns
+knocker  ../images/object/artifact/decoration/knocker  ...                []
+
+[1 rows x 7 columns]
+koala,                                                         path  ... subordinates_syns
+body_koala   ../images/animate_being/animal/mammal/koala/body  ...                []
+face_koala   ../images/animate_being/animal/mammal/koala/face  ...                []
+koala_eye   ../images/animate_being/animal/mammal/koala/bo...  ...                []
+koala_nose  ../images/animate_being/animal/mammal/koala/bo...  ...                []
+koala_paw   ../images/animate_being/animal/mammal/koala/bo...  ...                []
+
+[5 rows x 7 columns]
+ladle,                                              path  ... subordinates_syns
+ladle  ../images/object/artifact/kitchenware/ladle  ...                []
+
+[1 rows x 7 columns]
+ladybug,                                                           path  ... subordinates_syns
+body_ladybug  ../images/animate_being/animal/insect/ladybug/...  ...                []
+
+[1 rows x 7 columns]
+lamp,                                          path  ... subordinates_syns
+lamp  ../images/object/artifact/furniture/lamp  ...                []
+
+[1 rows x 7 columns]
+laptop,                                                     path  ... subordinates_syns
+laptop  ../images/object/artifact/electronic_device/la...  ...                []
+
+[1 rows x 7 columns]
+laundry_basket,                                                             path  ... subordinates_syns
+laundry_basket  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+leg,                                                  path  ... subordinates_syns
+leg_human  ../images/animate_being/human/body_part/leg  ...                []
+
+[1 rows x 7 columns]
+lemon,                                              path  ... subordinates_syns
+lemon  ../images/object/natural_object/fruit/lemon  ...                []
+
+[1 rows x 7 columns]
+leopard,                                                           path  ... subordinates_syns
+body_leopard  ../images/animate_being/animal/mammal/feline/l...  ...                []
+face_leopard  ../images/animate_being/animal/mammal/feline/l...  ...                []
+leopard_eye   ../images/animate_being/animal/mammal/feline/l...  ...                []
+leopard_nose  ../images/animate_being/animal/mammal/feline/l...  ...                []
+leopard_paw   ../images/animate_being/animal/mammal/feline/l...  ...                []
+leopard_tail  ../images/animate_being/animal/mammal/feline/l...  ...                []
+
+[6 rows x 7 columns]
+lettuce,                                                      path  ... subordinates_syns
+lettuce  ../images/object/natural_object/vegetable/lettuce  ...                []
+
+[1 rows x 7 columns]
+lion,                                                         path  ... subordinates_syns
+body_lion   ../images/animate_being/animal/mammal/feline/l...  ...                []
+face_lion   ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_eye    ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_nose   ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_paw    ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_tail   ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_tooth  ../images/animate_being/animal/mammal/feline/l...  ...                []
+
+[7 rows x 7 columns]
+lionfish,                                                            path  ... subordinates_syns
+body_lionfish  ../images/animate_being/animal/fish/lionfish/body  ...                []
+
+[1 rows x 7 columns]
+lizard,                                                          path  ... subordinates_syns
+body_lizard  ../images/animate_being/animal/reptile/lizard/...  ...                []
+face_lizard  ../images/animate_being/animal/reptile/lizard/...  ...                []
+lizard_eye   ../images/animate_being/animal/reptile/lizard/...  ...                []
+lizard_tail  ../images/animate_being/animal/reptile/lizard/...  ...                []
+
+[4 rows x 7 columns]
+lynx,                                                         path  ... subordinates_syns
+body_lynx   ../images/animate_being/animal/mammal/feline/l...  ...                []
+face_lynx   ../images/animate_being/animal/mammal/feline/l...  ...                []
+lynx_eye    ../images/animate_being/animal/mammal/feline/l...  ...                []
+lynx_paw    ../images/animate_being/animal/mammal/feline/l...  ...                []
+lynx_tooth  ../images/animate_being/animal/mammal/feline/l...  ...                []
+
+[5 rows x 7 columns]
+male,                                                                   path  ... subordinates_syns
+adolescent_male_face  ../images/animate_being/human/face/male/adoles...  ...                []
+adult_male_face           ../images/animate_being/human/face/male/adult  ...                []
+baby_male_face             ../images/animate_being/human/face/male/baby  ...                []
+child_male_face           ../images/animate_being/human/face/male/child  ...                []
+elder_male_face           ../images/animate_being/human/face/male/elder  ...                []
+
+[5 rows x 7 columns]
+mammal,                                                                path  ... subordinates_syns
+bear_ear           ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_eye           ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_nose          ../images/animate_being/animal/mammal/bear/bod...  ...                []
+bear_paw           ../images/animate_being/animal/mammal/bear/bod...  ...                []
+body_bear            ../images/animate_being/animal/mammal/bear/body  ...                []
+body_beaver        ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_cat           ../images/animate_being/animal/mammal/feline/c...  ...                []
+body_cow              ../images/animate_being/animal/mammal/cow/body  ...                []
+body_coyote        ../images/animate_being/animal/mammal/canine/c...  ...                []
+body_dog           ../images/animate_being/animal/mammal/canine/d...  ...                []
+body_dolphin       ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_elephant      ../images/animate_being/animal/mammal/elephant...  ...                []
+body_elk              ../images/animate_being/animal/mammal/elk/body  ...                []
+body_fox           ../images/animate_being/animal/mammal/canine/f...  ...                []
+body_giant_panda   ../images/animate_being/animal/mammal/giant_pa...  ...                []
+body_giraffe       ../images/animate_being/animal/mammal/giraffe/...  ...                []
+body_hippopotamus  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_hog              ../images/animate_being/animal/mammal/hog/body  ...                []
+body_horse          ../images/animate_being/animal/mammal/horse/body  ...                []
+body_hyena         ../images/animate_being/animal/mammal/canine/h...  ...                []
+body_killer_whale  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_koala          ../images/animate_being/animal/mammal/koala/body  ...                []
+body_leopard       ../images/animate_being/animal/mammal/feline/l...  ...                []
+body_lion          ../images/animate_being/animal/mammal/feline/l...  ...                []
+body_lynx          ../images/animate_being/animal/mammal/feline/l...  ...                []
+body_marauder      ../images/animate_being/animal/mammal/aquatic_...  ...                []
+body_monkey        ../images/animate_being/animal/mammal/monkey/body  ...                []
+body_rabbit        ../images/animate_being/animal/mammal/rabbit/body  ...                []
+body_raccoon       ../images/animate_being/animal/mammal/raccoon/...  ...                []
+body_sea_lion      ../images/animate_being/animal/mammal/aquatic_...  ...                []
+...                                                              ...  ...               ...
+lynx_paw           ../images/animate_being/animal/mammal/feline/l...  ...                []
+lynx_tooth         ../images/animate_being/animal/mammal/feline/l...  ...                []
+monkey_ear         ../images/animate_being/animal/mammal/monkey/b...  ...                []
+monkey_eye         ../images/animate_being/animal/mammal/monkey/b...  ...                []
+monkey_hand        ../images/animate_being/animal/mammal/monkey/b...  ...                []
+monkey_tooth       ../images/animate_being/animal/mammal/monkey/b...  ...                []
+nose_hog           ../images/animate_being/animal/mammal/hog/body...  ...                []
+rabbit_ear         ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_eye         ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_nose        ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_paw         ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_tail        ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_tooth       ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+raccoon_paw        ../images/animate_being/animal/mammal/raccoon/...  ...                []
+seal_nose          ../images/animate_being/animal/mammal/aquatic_...  ...                []
+seal_tooth         ../images/animate_being/animal/mammal/aquatic_...  ...                []
+sheep_ear          ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+sheep_eye          ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+sheep_nose         ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+squirrel_eye       ../images/animate_being/animal/mammal/squirrel...  ...                []
+squirrel_tail      ../images/animate_being/animal/mammal/squirrel...  ...                []
+tail_hog           ../images/animate_being/animal/mammal/hog/body...  ...                []
+tiger_ear          ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_eye          ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_nose         ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_paw          ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_tail         ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_tooth        ../images/animate_being/animal/mammal/feline/t...  ...                []
+whale_tail         ../images/animate_being/animal/mammal/aquatic_...  ...                []
+wolf_tail          ../images/animate_being/animal/mammal/canine/w...  ...                []
+
+[152 rows x 7 columns]
+mango,                                              path  ... subordinates_syns
+mango  ../images/object/natural_object/fruit/mango  ...                []
+
+[1 rows x 7 columns]
+maraca,                                                     path  ... subordinates_syns
+maraca  ../images/object/artifact/musical_instrument/m...  ...                []
+
+[1 rows x 7 columns]
+marauder,                                                            path  ... subordinates_syns
+body_marauder  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_marauder  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+
+[2 rows x 7 columns]
+marble,                                         path  ... subordinates_syns
+marble  ../images/object/artifact/game/marble  ...                []
+
+[1 rows x 7 columns]
+marker,                                           path  ... subordinates_syns
+marker  ../images/object/artifact/school/marker  ...                []
+
+[1 rows x 7 columns]
+meal,                                                        path  ... subordinates_syns
+burger            ../images/object/artifact/food/meal/burger  ...                []
+cereal            ../images/object/artifact/food/meal/cereal  ...                []
+fish_filet    ../images/object/artifact/food/meal/fish_filet  ...                []
+fruit_salad  ../images/object/artifact/food/meal/fruit_salad  ...                []
+pizza              ../images/object/artifact/food/meal/pizza  ...                []
+poultry          ../images/object/artifact/food/meal/poultry  ...                []
+salad              ../images/object/artifact/food/meal/salad  ...                []
+sandwich        ../images/object/artifact/food/meal/sandwich  ...                []
+soup                ../images/object/artifact/food/meal/soup  ...                []
+
+[9 rows x 7 columns]
+medal,                                          path  ... subordinates_syns
+medal  ../images/object/artifact/jewelry/medal  ...                []
+
+[1 rows x 7 columns]
+medical_instrument,                                                               path  ... subordinates_syns
+MRI                ../images/object/artifact/medical_instrument/MRI  ...                []
+crutch            ../images/object/artifact/medical_instrument/c...  ...                []
+first_aid         ../images/object/artifact/medical_instrument/f...  ...                []
+glasses           ../images/object/artifact/medical_instrument/g...  ...                []
+glove             ../images/object/artifact/medical_instrument/g...  ...                []
+meter             ../images/object/artifact/medical_instrument/m...  ...                []
+pill              ../images/object/artifact/medical_instrument/pill  ...                []
+pregnancy_test    ../images/object/artifact/medical_instrument/p...  ...                []
+scale             ../images/object/artifact/medical_instrument/s...  ...                []
+sphygmomanometer  ../images/object/artifact/medical_instrument/s...  ...                []
+stethoscope       ../images/object/artifact/medical_instrument/s...  ...                []
+stretcher         ../images/object/artifact/medical_instrument/s...  ...                []
+syringe           ../images/object/artifact/medical_instrument/s...  ...                []
+tape              ../images/object/artifact/medical_instrument/tape  ...                []
+thermometer       ../images/object/artifact/medical_instrument/t...  ...                []
+wheelchair        ../images/object/artifact/medical_instrument/w...  ...                []
+
+[16 rows x 7 columns]
+melon,                                              path  ... subordinates_syns
+melon  ../images/object/natural_object/fruit/melon  ...                []
+
+[1 rows x 7 columns]
+memo,                                       path  ... subordinates_syns
+memo  ../images/object/artifact/school/memo  ...                []
+
+[1 rows x 7 columns]
+menorah,                                                 path  ... subordinates_syns
+menorah  ../images/object/artifact/decoration/menorah  ...                []
+
+[1 rows x 7 columns]
+meter,                                                    path  ... subordinates_syns
+meter  ../images/object/artifact/medical_instrument/m...  ...                []
+
+[1 rows x 7 columns]
+metro,                                          path  ... subordinates_syns
+metro  ../images/object/artifact/vehicle/metro  ...                []
+
+[1 rows x 7 columns]
+microphone,                                                         path  ... subordinates_syns
+microphone  ../images/object/artifact/electronic_device/mi...  ...                []
+
+[1 rows x 7 columns]
+miniature_golf,                                                         path  ... subordinates_syns
+miniature_golf  ../images/object/artifact/game/miniature_golf  ...                []
+
+[1 rows x 7 columns]
+mitten,                                             path  ... subordinates_syns
+mitten  ../images/object/artifact/clothing/mitten  ...                []
+
+[1 rows x 7 columns]
+monkey,                                                           path  ... subordinates_syns
+body_monkey   ../images/animate_being/animal/mammal/monkey/body  ...                []
+face_monkey   ../images/animate_being/animal/mammal/monkey/face  ...                []
+monkey_ear    ../images/animate_being/animal/mammal/monkey/b...  ...                []
+monkey_eye    ../images/animate_being/animal/mammal/monkey/b...  ...                []
+monkey_hand   ../images/animate_being/animal/mammal/monkey/b...  ...                []
+monkey_tooth  ../images/animate_being/animal/mammal/monkey/b...  ...                []
+
+[6 rows x 7 columns]
+mop,                                                  path  ... subordinates_syns
+mop  ../images/object/artifact/household_appliance/mop  ...                []
+
+[1 rows x 7 columns]
+moray,                                                      path  ... subordinates_syns
+body_moray  ../images/animate_being/animal/fish/moray/body  ...                []
+
+[1 rows x 7 columns]
+motorcycle,                                                    path  ... subordinates_syns
+motorcycle  ../images/object/artifact/vehicle/motorcycle  ...                []
+
+[1 rows x 7 columns]
+mouse,                                                    path  ... subordinates_syns
+mouse  ../images/object/artifact/electronic_device/mouse  ...                []
+
+[1 rows x 7 columns]
+mouth,                                                          path  ... subordinates_syns
+mouth_human      ../images/animate_being/human/body_part/mouth  ...                []
+snake_mouth  ../images/animate_being/animal/reptile/snake/b...  ...                []
+
+[2 rows x 7 columns]
+muffin,                                         path  ... subordinates_syns
+muffin  ../images/object/artifact/food/muffin  ...                []
+
+[1 rows x 7 columns]
+mushroom,                                                       path  ... subordinates_syns
+mushroom  ../images/object/natural_object/vegetable/mush...  ...                []
+
+[1 rows x 7 columns]
+musical_instrument,                                                         path  ... subordinates_syns
+accordion   ../images/object/artifact/musical_instrument/a...  ...                []
+clarinet    ../images/object/artifact/musical_instrument/c...  ...                []
+drum        ../images/object/artifact/musical_instrument/drum  ...                []
+flute       ../images/object/artifact/musical_instrument/f...  ...                []
+gong        ../images/object/artifact/musical_instrument/gong  ...                []
+guitar      ../images/object/artifact/musical_instrument/g...  ...                []
+harmonica   ../images/object/artifact/musical_instrument/h...  ...                []
+harp        ../images/object/artifact/musical_instrument/harp  ...                []
+maraca      ../images/object/artifact/musical_instrument/m...  ...                []
+organ       ../images/object/artifact/musical_instrument/o...  ...                []
+piano       ../images/object/artifact/musical_instrument/p...  ...                []
+saxophone   ../images/object/artifact/musical_instrument/s...  ...                []
+tambourine  ../images/object/artifact/musical_instrument/t...  ...                []
+trumpet     ../images/object/artifact/musical_instrument/t...  ...                []
+violin      ../images/object/artifact/musical_instrument/v...  ...                []
+xylophone   ../images/object/artifact/musical_instrument/x...  ...                []
+
+[16 rows x 7 columns]
+natural_object,                                                          path  ... subordinates_syns
+apple              ../images/object/natural_object/fruit/apple  ...                []
+asparagus    ../images/object/natural_object/vegetable/aspa...  ...                []
+banana            ../images/object/natural_object/fruit/banana  ...                []
+broccoli     ../images/object/natural_object/vegetable/broc...  ...                []
+cabbage      ../images/object/natural_object/vegetable/cabbage  ...                []
+carrot        ../images/object/natural_object/vegetable/carrot  ...                []
+cauliflower  ../images/object/natural_object/vegetable/caul...  ...                []
+celery        ../images/object/natural_object/vegetable/celery  ...                []
+cherry            ../images/object/natural_object/fruit/cherry  ...                []
+corn            ../images/object/natural_object/vegetable/corn  ...                []
+cranberry      ../images/object/natural_object/fruit/cranberry  ...                []
+cucumber     ../images/object/natural_object/vegetable/cucu...  ...                []
+grape              ../images/object/natural_object/fruit/grape  ...                []
+grapefruit    ../images/object/natural_object/fruit/grapefruit  ...                []
+kiwi                ../images/object/natural_object/fruit/kiwi  ...                []
+lemon              ../images/object/natural_object/fruit/lemon  ...                []
+lettuce      ../images/object/natural_object/vegetable/lettuce  ...                []
+mango              ../images/object/natural_object/fruit/mango  ...                []
+melon              ../images/object/natural_object/fruit/melon  ...                []
+mushroom     ../images/object/natural_object/vegetable/mush...  ...                []
+onion          ../images/object/natural_object/vegetable/onion  ...                []
+peach              ../images/object/natural_object/fruit/peach  ...                []
+pear                ../images/object/natural_object/fruit/pear  ...                []
+pepper        ../images/object/natural_object/vegetable/pepper  ...                []
+pineapple      ../images/object/natural_object/fruit/pineapple  ...                []
+pitahaya        ../images/object/natural_object/fruit/pitahaya  ...                []
+potato        ../images/object/natural_object/vegetable/potato  ...                []
+pumpkin      ../images/object/natural_object/vegetable/pumpkin  ...                []
+radish        ../images/object/natural_object/vegetable/radish  ...                []
+raspberry      ../images/object/natural_object/fruit/raspberry  ...                []
+strawberry    ../images/object/natural_object/fruit/strawberry  ...                []
+zucchini     ../images/object/natural_object/vegetable/zucc...  ...                []
+
+[32 rows x 7 columns]
+necklace,                                                path  ... subordinates_syns
+necklace  ../images/object/artifact/jewelry/necklace  ...                []
+
+[1 rows x 7 columns]
+nose,                                                           path  ... subordinates_syns
+bear_nose     ../images/animate_being/animal/mammal/bear/bod...  ...                []
+cat_nose      ../images/animate_being/animal/mammal/feline/c...  ...                []
+cow_nose      ../images/animate_being/animal/mammal/cow/body...  ...                []
+dog_nose      ../images/animate_being/animal/mammal/canine/d...  ...                []
+giraffe_nose  ../images/animate_being/animal/mammal/giraffe/...  ...                []
+horse_nose    ../images/animate_being/animal/mammal/horse/bo...  ...                []
+koala_nose    ../images/animate_being/animal/mammal/koala/bo...  ...                []
+leopard_nose  ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_nose     ../images/animate_being/animal/mammal/feline/l...  ...                []
+nose_hog      ../images/animate_being/animal/mammal/hog/body...  ...                []
+nose_human         ../images/animate_being/human/body_part/nose  ...                []
+rabbit_nose   ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+seal_nose     ../images/animate_being/animal/mammal/aquatic_...  ...                []
+sheep_nose    ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+tiger_nose    ../images/animate_being/animal/mammal/feline/t...  ...                []
+
+[15 rows x 7 columns]
+nose_ring,                                                  path  ... subordinates_syns
+nose_ring  ../images/object/artifact/jewelry/nose_ring  ...                []
+
+[1 rows x 7 columns]
+notebook,                                               path  ... subordinates_syns
+notebook  ../images/object/artifact/school/notebook  ...                []
+
+[1 rows x 7 columns]
+object,                                                              path  ... subordinates_syns
+MRI               ../images/object/artifact/medical_instrument/MRI  ...                []
+RV                            ../images/object/artifact/vehicle/RV  ...                []
+accordion        ../images/object/artifact/musical_instrument/a...  ...                []
+air_conditioner  ../images/object/artifact/household_appliance/...  ...                []
+airplane                ../images/object/artifact/vehicle/airplane  ...                []
+anklet                    ../images/object/artifact/jewelry/anklet  ...                []
+apple                  ../images/object/natural_object/fruit/apple  ...                []
+armchair              ../images/object/artifact/furniture/armchair  ...                []
+asparagus        ../images/object/natural_object/vegetable/aspa...  ...                []
+axe                             ../images/object/artifact/tool/axe  ...                []
+backpack                 ../images/object/artifact/school/backpack  ...                []
+bagel                         ../images/object/artifact/food/bagel  ...                []
+balloon               ../images/object/artifact/decoration/balloon  ...                []
+banana                ../images/object/natural_object/fruit/banana  ...                []
+baseball          ../images/object/artifact/outdoor_sport/baseball  ...                []
+basket              ../images/object/artifact/outdoor_sport/basket  ...                []
+basketball       ../images/object/artifact/outdoor_sport/basket...  ...                []
+bathtub                 ../images/object/artifact/bathroom/bathtub  ...                []
+beach_ball               ../images/object/artifact/game/beach_ball  ...                []
+bed                        ../images/object/artifact/furniture/bed  ...                []
+bench                    ../images/object/artifact/furniture/bench  ...                []
+bicycle                  ../images/object/artifact/vehicle/bicycle  ...                []
+billiards                 ../images/object/artifact/game/billiards  ...                []
+binder                     ../images/object/artifact/school/binder  ...                []
+blower                       ../images/object/artifact/tool/blower  ...                []
+board                       ../images/object/artifact/school/board  ...                []
+book                         ../images/object/artifact/school/book  ...                []
+bookshelf            ../images/object/artifact/furniture/bookshelf  ...                []
+bottle_opener    ../images/object/artifact/kitchenware/bottle_o...  ...                []
+bowling                     ../images/object/artifact/game/bowling  ...                []
+...                                                            ...  ...               ...
+tablespoon        ../images/object/artifact/kitchenware/tablespoon  ...                []
+tambourine       ../images/object/artifact/musical_instrument/t...  ...                []
+tape             ../images/object/artifact/medical_instrument/tape  ...                []
+teapot                ../images/object/artifact/kitchenware/teapot  ...                []
+television       ../images/object/artifact/electronic_device/te...  ...                []
+tennis_ball      ../images/object/artifact/outdoor_sport/tennis...  ...                []
+thermometer      ../images/object/artifact/medical_instrument/t...  ...                []
+toilet                   ../images/object/artifact/bathroom/toilet  ...                []
+toilet_paper       ../images/object/artifact/bathroom/toilet_paper  ...                []
+toothbrush           ../images/object/artifact/bathroom/toothbrush  ...                []
+towel                     ../images/object/artifact/bathroom/towel  ...                []
+tractor                  ../images/object/artifact/vehicle/tractor  ...                []
+train                      ../images/object/artifact/vehicle/train  ...                []
+trash_can        ../images/object/artifact/household_appliance/...  ...                []
+trumpet          ../images/object/artifact/musical_instrument/t...  ...                []
+tuxedo                   ../images/object/artifact/clothing/tuxedo  ...                []
+urinal                   ../images/object/artifact/bathroom/urinal  ...                []
+vacuum_cleaner   ../images/object/artifact/household_appliance/...  ...                []
+video_game       ../images/object/artifact/electronic_device/vi...  ...                []
+violin           ../images/object/artifact/musical_instrument/v...  ...                []
+walkie-talkie    ../images/object/artifact/electronic_device/wa...  ...                []
+washer           ../images/object/artifact/household_appliance/...  ...                []
+watch                      ../images/object/artifact/jewelry/watch  ...                []
+watering_can           ../images/object/artifact/tool/watering_can  ...                []
+wheelbarrow             ../images/object/artifact/tool/wheelbarrow  ...                []
+wheelchair       ../images/object/artifact/medical_instrument/w...  ...                []
+whisk                  ../images/object/artifact/kitchenware/whisk  ...                []
+wrench                       ../images/object/artifact/tool/wrench  ...                []
+xylophone        ../images/object/artifact/musical_instrument/x...  ...                []
+zucchini         ../images/object/natural_object/vegetable/zucc...  ...                []
+
+[287 rows x 7 columns]
+onion,                                                  path  ... subordinates_syns
+onion  ../images/object/natural_object/vegetable/onion  ...                []
+
+[1 rows x 7 columns]
+organ,                                                    path  ... subordinates_syns
+organ  ../images/object/artifact/musical_instrument/o...  ...                []
+
+[1 rows x 7 columns]
+outdoor_sport,                                                          path  ... subordinates_syns
+baseball      ../images/object/artifact/outdoor_sport/baseball  ...                []
+basket          ../images/object/artifact/outdoor_sport/basket  ...                []
+basketball   ../images/object/artifact/outdoor_sport/basket...  ...                []
+fishing_rod  ../images/object/artifact/outdoor_sport/fishin...  ...                []
+football      ../images/object/artifact/outdoor_sport/football  ...                []
+glider          ../images/object/artifact/outdoor_sport/glider  ...                []
+golf_ball    ../images/object/artifact/outdoor_sport/golf_ball  ...                []
+hammock        ../images/object/artifact/outdoor_sport/hammock  ...                []
+kayak            ../images/object/artifact/outdoor_sport/kayak  ...                []
+parachute    ../images/object/artifact/outdoor_sport/parachute  ...                []
+rollerblade  ../images/object/artifact/outdoor_sport/roller...  ...                []
+skateboard   ../images/object/artifact/outdoor_sport/skateb...  ...                []
+snowshoe      ../images/object/artifact/outdoor_sport/snowshoe  ...                []
+soccer_ball  ../images/object/artifact/outdoor_sport/soccer...  ...                []
+surfboard    ../images/object/artifact/outdoor_sport/surfboard  ...                []
+tennis_ball  ../images/object/artifact/outdoor_sport/tennis...  ...                []
+
+[16 rows x 7 columns]
+oven,                                            path  ... subordinates_syns
+oven  ../images/object/artifact/kitchenware/oven  ...                []
+
+[1 rows x 7 columns]
+owl,                                                        path  ... subordinates_syns
+body_owl        ../images/animate_being/animal/bird/owl/body  ...                []
+face_owl        ../images/animate_being/animal/bird/owl/face  ...                []
+owl_eye    ../images/animate_being/animal/bird/owl/body_p...  ...                []
+owl_talon  ../images/animate_being/animal/bird/owl/body_p...  ...                []
+
+[4 rows x 7 columns]
+paint_roller,                                                     path  ... subordinates_syns
+paint_roller  ../images/object/artifact/tool/paint_roller  ...                []
+
+[1 rows x 7 columns]
+pant,                                         path  ... subordinates_syns
+pant  ../images/object/artifact/clothing/pant  ...                []
+
+[1 rows x 7 columns]
+paperclip,                                                 path  ... subordinates_syns
+paperclip  ../images/object/artifact/school/paperclip  ...                []
+
+[1 rows x 7 columns]
+parachute,                                                        path  ... subordinates_syns
+parachute  ../images/object/artifact/outdoor_sport/parachute  ...                []
+
+[1 rows x 7 columns]
+parrot,                                                          path  ... subordinates_syns
+body_parrot    ../images/animate_being/animal/bird/parrot/body  ...                []
+face_parrot    ../images/animate_being/animal/bird/parrot/face  ...                []
+parrot_eye   ../images/animate_being/animal/bird/parrot/bod...  ...                []
+
+[3 rows x 7 columns]
+paw,                                                            path  ... subordinates_syns
+bear_paw       ../images/animate_being/animal/mammal/bear/bod...  ...                []
+cat_paw        ../images/animate_being/animal/mammal/feline/c...  ...                []
+crocodile_paw  ../images/animate_being/animal/reptile/crocodi...  ...                []
+dog_paw        ../images/animate_being/animal/mammal/canine/d...  ...                []
+elephant_paw   ../images/animate_being/animal/mammal/elephant...  ...                []
+giraffe_paw    ../images/animate_being/animal/mammal/giraffe/...  ...                []
+koala_paw      ../images/animate_being/animal/mammal/koala/bo...  ...                []
+leopard_paw    ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_paw       ../images/animate_being/animal/mammal/feline/l...  ...                []
+lynx_paw       ../images/animate_being/animal/mammal/feline/l...  ...                []
+rabbit_paw     ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+raccoon_paw    ../images/animate_being/animal/mammal/raccoon/...  ...                []
+tiger_paw      ../images/animate_being/animal/mammal/feline/t...  ...                []
+
+[13 rows x 7 columns]
+peach,                                              path  ... subordinates_syns
+peach  ../images/object/natural_object/fruit/peach  ...                []
+
+[1 rows x 7 columns]
+peacock,                                                           path  ... subordinates_syns
+body_peacock   ../images/animate_being/animal/bird/peacock/body  ...                []
+face_peacock   ../images/animate_being/animal/bird/peacock/face  ...                []
+peacock_eye   ../images/animate_being/animal/bird/peacock/bo...  ...                []
+peacock_tail  ../images/animate_being/animal/bird/peacock/bo...  ...                []
+
+[4 rows x 7 columns]
+pear,                                            path  ... subordinates_syns
+pear  ../images/object/natural_object/fruit/pear  ...                []
+
+[1 rows x 7 columns]
+peeler,                                                path  ... subordinates_syns
+peeler  ../images/object/artifact/kitchenware/peeler  ...                []
+
+[1 rows x 7 columns]
+pen,                                     path  ... subordinates_syns
+pen  ../images/object/artifact/school/pen  ...                []
+
+[1 rows x 7 columns]
+pencil,                                           path  ... subordinates_syns
+pencil  ../images/object/artifact/school/pencil  ...                []
+
+[1 rows x 7 columns]
+pencil_case,                                                     path  ... subordinates_syns
+pencil_case  ../images/object/artifact/school/pencil_case  ...                []
+
+[1 rows x 7 columns]
+pendant,                                              path  ... subordinates_syns
+pendant  ../images/object/artifact/jewelry/pendant  ...                []
+
+[1 rows x 7 columns]
+penguin,                                                          path  ... subordinates_syns
+body_penguin  ../images/animate_being/animal/bird/penguin/body  ...                []
+face_penguin  ../images/animate_being/animal/bird/penguin/face  ...                []
+
+[2 rows x 7 columns]
+pepper,                                                    path  ... subordinates_syns
+pepper  ../images/object/natural_object/vegetable/pepper  ...                []
+
+[1 rows x 7 columns]
+piano,                                                    path  ... subordinates_syns
+piano  ../images/object/artifact/musical_instrument/p...  ...                []
+
+[1 rows x 7 columns]
+pickup,                                            path  ... subordinates_syns
+pickup  ../images/object/artifact/vehicle/pickup  ...                []
+
+[1 rows x 7 columns]
+pill,                                                   path  ... subordinates_syns
+pill  ../images/object/artifact/medical_instrument/pill  ...                []
+
+[1 rows x 7 columns]
+pineapple,                                                      path  ... subordinates_syns
+pineapple  ../images/object/natural_object/fruit/pineapple  ...                []
+
+[1 rows x 7 columns]
+pipe_wrench,                                                   path  ... subordinates_syns
+pipe_wrench  ../images/object/artifact/tool/pipe_wrench  ...                []
+
+[1 rows x 7 columns]
+piranha,                                                          path  ... subordinates_syns
+body_piranha  ../images/animate_being/animal/fish/piranha/body  ...                []
+
+[1 rows x 7 columns]
+pitahaya,                                                    path  ... subordinates_syns
+pitahaya  ../images/object/natural_object/fruit/pitahaya  ...                []
+
+[1 rows x 7 columns]
+pizza,                                            path  ... subordinates_syns
+pizza  ../images/object/artifact/food/meal/pizza  ...                []
+
+[1 rows x 7 columns]
+plate,                                              path  ... subordinates_syns
+plate  ../images/object/artifact/kitchenware/plate  ...                []
+
+[1 rows x 7 columns]
+pliers,                                         path  ... subordinates_syns
+pliers  ../images/object/artifact/tool/pliers  ...                []
+
+[1 rows x 7 columns]
+potato,                                                    path  ... subordinates_syns
+potato  ../images/object/natural_object/vegetable/potato  ...                []
+
+[1 rows x 7 columns]
+pouffe,                                              path  ... subordinates_syns
+pouffe  ../images/object/artifact/furniture/pouffe  ...                []
+
+[1 rows x 7 columns]
+poultry,                                                path  ... subordinates_syns
+poultry  ../images/object/artifact/food/meal/poultry  ...                []
+
+[1 rows x 7 columns]
+precious_stone,                                                            path  ... subordinates_syns
+precious_stone  ../images/object/artifact/jewelry/precious_stone  ...                []
+
+[1 rows x 7 columns]
+pregnancy_test,                                                             path  ... subordinates_syns
+pregnancy_test  ../images/object/artifact/medical_instrument/p...  ...                []
+
+[1 rows x 7 columns]
+printer,                                                      path  ... subordinates_syns
+printer  ../images/object/artifact/electronic_device/pr...  ...                []
+
+[1 rows x 7 columns]
+pumpkin,                                                      path  ... subordinates_syns
+pumpkin  ../images/object/natural_object/vegetable/pumpkin  ...                []
+
+[1 rows x 7 columns]
+punch,                                         path  ... subordinates_syns
+punch  ../images/object/artifact/school/punch  ...                []
+
+[1 rows x 7 columns]
+puzzle,                                         path  ... subordinates_syns
+puzzle  ../images/object/artifact/game/puzzle  ...                []
+
+[1 rows x 7 columns]
+pyjama,                                             path  ... subordinates_syns
+pyjama  ../images/object/artifact/clothing/pyjama  ...                []
+
+[1 rows x 7 columns]
+rabbit,                                                           path  ... subordinates_syns
+body_rabbit   ../images/animate_being/animal/mammal/rabbit/body  ...                []
+face_rabbit   ../images/animate_being/animal/mammal/rabbit/face  ...                []
+rabbit_ear    ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_eye    ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_nose   ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_paw    ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_tail   ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+rabbit_tooth  ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+
+[8 rows x 7 columns]
+raccoon,                                                           path  ... subordinates_syns
+body_raccoon  ../images/animate_being/animal/mammal/raccoon/...  ...                []
+face_raccoon  ../images/animate_being/animal/mammal/raccoon/...  ...                []
+raccoon_paw   ../images/animate_being/animal/mammal/raccoon/...  ...                []
+
+[3 rows x 7 columns]
+radio,                                                    path  ... subordinates_syns
+radio  ../images/object/artifact/electronic_device/radio  ...                []
+
+[1 rows x 7 columns]
+radish,                                                    path  ... subordinates_syns
+radish  ../images/object/natural_object/vegetable/radish  ...                []
+
+[1 rows x 7 columns]
+rake,                                     path  ... subordinates_syns
+rake  ../images/object/artifact/tool/rake  ...                []
+
+[1 rows x 7 columns]
+raspberry,                                                      path  ... subordinates_syns
+raspberry  ../images/object/natural_object/fruit/raspberry  ...                []
+
+[1 rows x 7 columns]
+ray,                                                  path  ... subordinates_syns
+body_ray  ../images/animate_being/animal/fish/ray/body  ...                []
+
+[1 rows x 7 columns]
+razor,                                           path  ... subordinates_syns
+razor  ../images/object/artifact/bathroom/razor  ...                []
+
+[1 rows x 7 columns]
+remote,                                                     path  ... subordinates_syns
+remote  ../images/object/artifact/electronic_device/re...  ...                []
+
+[1 rows x 7 columns]
+reptile,                                                                 path  ... subordinates_syns
+body_chameleon      ../images/animate_being/animal/reptile/chamele...  ...                []
+body_common_iguana  ../images/animate_being/animal/reptile/common_...  ...                []
+body_crocodile      ../images/animate_being/animal/reptile/crocodi...  ...                []
+body_lizard         ../images/animate_being/animal/reptile/lizard/...  ...                []
+body_snake          ../images/animate_being/animal/reptile/snake/body  ...                []
+body_turtle         ../images/animate_being/animal/reptile/turtle/...  ...                []
+crocodile_eye       ../images/animate_being/animal/reptile/crocodi...  ...                []
+crocodile_paw       ../images/animate_being/animal/reptile/crocodi...  ...                []
+crocodile_tail      ../images/animate_being/animal/reptile/crocodi...  ...                []
+crocodile_tooth     ../images/animate_being/animal/reptile/crocodi...  ...                []
+face_chameleon      ../images/animate_being/animal/reptile/chamele...  ...                []
+face_common_iguana  ../images/animate_being/animal/reptile/common_...  ...                []
+face_crocodile      ../images/animate_being/animal/reptile/crocodi...  ...                []
+face_lizard         ../images/animate_being/animal/reptile/lizard/...  ...                []
+face_snake          ../images/animate_being/animal/reptile/snake/face  ...                []
+face_turtle         ../images/animate_being/animal/reptile/turtle/...  ...                []
+lizard_eye          ../images/animate_being/animal/reptile/lizard/...  ...                []
+lizard_tail         ../images/animate_being/animal/reptile/lizard/...  ...                []
+snake_eye           ../images/animate_being/animal/reptile/snake/b...  ...                []
+snake_mouth         ../images/animate_being/animal/reptile/snake/b...  ...                []
+turtle_tail         ../images/animate_being/animal/reptile/turtle/...  ...                []
+
+[21 rows x 7 columns]
+ring,                                        path  ... subordinates_syns
+ring  ../images/object/artifact/jewelry/ring  ...                []
+
+[1 rows x 7 columns]
+rocking_chair,                                                            path  ... subordinates_syns
+rocking_chair  ../images/object/artifact/furniture/rocking_chair  ...                []
+
+[1 rows x 7 columns]
+rollerblade,                                                          path  ... subordinates_syns
+rollerblade  ../images/object/artifact/outdoor_sport/roller...  ...                []
+
+[1 rows x 7 columns]
+rosary,                                            path  ... subordinates_syns
+rosary  ../images/object/artifact/jewelry/rosary  ...                []
+
+[1 rows x 7 columns]
+sailboat,                                                path  ... subordinates_syns
+sailboat  ../images/object/artifact/vehicle/sailboat  ...                []
+
+[1 rows x 7 columns]
+salad,                                            path  ... subordinates_syns
+salad  ../images/object/artifact/food/meal/salad  ...                []
+
+[1 rows x 7 columns]
+sandwich,                                                  path  ... subordinates_syns
+sandwich  ../images/object/artifact/food/meal/sandwich  ...                []
+
+[1 rows x 7 columns]
+saxophone,                                                        path  ... subordinates_syns
+saxophone  ../images/object/artifact/musical_instrument/s...  ...                []
+
+[1 rows x 7 columns]
+scale,                                                    path  ... subordinates_syns
+scale  ../images/object/artifact/medical_instrument/s...  ...                []
+
+[1 rows x 7 columns]
+scarf,                                           path  ... subordinates_syns
+scarf  ../images/object/artifact/clothing/scarf  ...                []
+
+[1 rows x 7 columns]
+school,                                                     path  ... subordinates_syns
+backpack        ../images/object/artifact/school/backpack  ...                []
+binder            ../images/object/artifact/school/binder  ...                []
+board              ../images/object/artifact/school/board  ...                []
+book                ../images/object/artifact/school/book  ...                []
+chalk              ../images/object/artifact/school/chalk  ...                []
+eraser            ../images/object/artifact/school/eraser  ...                []
+marker            ../images/object/artifact/school/marker  ...                []
+memo                ../images/object/artifact/school/memo  ...                []
+notebook        ../images/object/artifact/school/notebook  ...                []
+paperclip      ../images/object/artifact/school/paperclip  ...                []
+pen                  ../images/object/artifact/school/pen  ...                []
+pencil            ../images/object/artifact/school/pencil  ...                []
+pencil_case  ../images/object/artifact/school/pencil_case  ...                []
+punch              ../images/object/artifact/school/punch  ...                []
+scissors        ../images/object/artifact/school/scissors  ...                []
+sharpener      ../images/object/artifact/school/sharpener  ...                []
+
+[16 rows x 7 columns]
+scissors,                                               path  ... subordinates_syns
+scissors  ../images/object/artifact/school/scissors  ...                []
+
+[1 rows x 7 columns]
+scooter,                                              path  ... subordinates_syns
+scooter  ../images/object/artifact/vehicle/scooter  ...                []
+
+[1 rows x 7 columns]
+scouring_pad,                                                           path  ... subordinates_syns
+scouring_pad  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+screwdriver,                                                   path  ... subordinates_syns
+screwdriver  ../images/object/artifact/tool/screwdriver  ...                []
+
+[1 rows x 7 columns]
+sea_lion,                                                            path  ... subordinates_syns
+body_sea_lion  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_sea_lion  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+
+[2 rows x 7 columns]
+seahorse,                                                            path  ... subordinates_syns
+body_seahorse  ../images/animate_being/animal/fish/seahorse/body  ...                []
+
+[1 rows x 7 columns]
+seal,                                                         path  ... subordinates_syns
+body_seal   ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_seal   ../images/animate_being/animal/mammal/aquatic_...  ...                []
+seal_nose   ../images/animate_being/animal/mammal/aquatic_...  ...                []
+seal_tooth  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+
+[4 rows x 7 columns]
+sewing_machine,                                                             path  ... subordinates_syns
+sewing_machine  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+sharpener,                                                 path  ... subordinates_syns
+sharpener  ../images/object/artifact/school/sharpener  ...                []
+
+[1 rows x 7 columns]
+sheep,                                                         path  ... subordinates_syns
+body_sheep   ../images/animate_being/animal/mammal/sheep/body  ...                []
+face_sheep   ../images/animate_being/animal/mammal/sheep/face  ...                []
+sheep_ear   ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+sheep_eye   ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+sheep_nose  ../images/animate_being/animal/mammal/sheep/bo...  ...                []
+
+[5 rows x 7 columns]
+shoe,                                         path  ... subordinates_syns
+shoe  ../images/object/artifact/clothing/shoe  ...                []
+
+[1 rows x 7 columns]
+shorts,                                             path  ... subordinates_syns
+shorts  ../images/object/artifact/clothing/shorts  ...                []
+
+[1 rows x 7 columns]
+shovel,                                         path  ... subordinates_syns
+shovel  ../images/object/artifact/tool/shovel  ...                []
+
+[1 rows x 7 columns]
+shower,                                             path  ... subordinates_syns
+shower  ../images/object/artifact/bathroom/shower  ...                []
+
+[1 rows x 7 columns]
+showerhead,                                                     path  ... subordinates_syns
+showerhead  ../images/object/artifact/bathroom/showerhead  ...                []
+
+[1 rows x 7 columns]
+sink,                                         path  ... subordinates_syns
+sink  ../images/object/artifact/bathroom/sink  ...                []
+
+[1 rows x 7 columns]
+skateboard,                                                         path  ... subordinates_syns
+skateboard  ../images/object/artifact/outdoor_sport/skateb...  ...                []
+
+[1 rows x 7 columns]
+skirt,                                           path  ... subordinates_syns
+skirt  ../images/object/artifact/clothing/skirt  ...                []
+
+[1 rows x 7 columns]
+slide,                                       path  ... subordinates_syns
+slide  ../images/object/artifact/game/slide  ...                []
+
+[1 rows x 7 columns]
+snake,                                                          path  ... subordinates_syns
+body_snake   ../images/animate_being/animal/reptile/snake/body  ...                []
+face_snake   ../images/animate_being/animal/reptile/snake/face  ...                []
+snake_eye    ../images/animate_being/animal/reptile/snake/b...  ...                []
+snake_mouth  ../images/animate_being/animal/reptile/snake/b...  ...                []
+
+[4 rows x 7 columns]
+snowshoe,                                                      path  ... subordinates_syns
+snowshoe  ../images/object/artifact/outdoor_sport/snowshoe  ...                []
+
+[1 rows x 7 columns]
+soap,                                         path  ... subordinates_syns
+soap  ../images/object/artifact/bathroom/soap  ...                []
+
+[1 rows x 7 columns]
+soccer_ball,                                                          path  ... subordinates_syns
+soccer_ball  ../images/object/artifact/outdoor_sport/soccer...  ...                []
+
+[1 rows x 7 columns]
+sock,                                         path  ... subordinates_syns
+sock  ../images/object/artifact/clothing/sock  ...                []
+
+[1 rows x 7 columns]
+sofa,                                          path  ... subordinates_syns
+sofa  ../images/object/artifact/furniture/sofa  ...                []
+
+[1 rows x 7 columns]
+soup,                                          path  ... subordinates_syns
+soup  ../images/object/artifact/food/meal/soup  ...                []
+
+[1 rows x 7 columns]
+sparrow,                                                          path  ... subordinates_syns
+body_sparrow  ../images/animate_being/animal/bird/sparrow/body  ...                []
+face_sparrow  ../images/animate_being/animal/bird/sparrow/face  ...                []
+
+[2 rows x 7 columns]
+speaker,                                                      path  ... subordinates_syns
+speaker  ../images/object/artifact/electronic_device/sp...  ...                []
+
+[1 rows x 7 columns]
+sphygmomanometer,                                                               path  ... subordinates_syns
+sphygmomanometer  ../images/object/artifact/medical_instrument/s...  ...                []
+
+[1 rows x 7 columns]
+squirrel,                                                            path  ... subordinates_syns
+body_squirrel  ../images/animate_being/animal/mammal/squirrel...  ...                []
+face_squirrel  ../images/animate_being/animal/mammal/squirrel...  ...                []
+squirrel_eye   ../images/animate_being/animal/mammal/squirrel...  ...                []
+squirrel_tail  ../images/animate_being/animal/mammal/squirrel...  ...                []
+
+[4 rows x 7 columns]
+steam_iron,                                                         path  ... subordinates_syns
+steam_iron  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+step_ladder,                                                   path  ... subordinates_syns
+step_ladder  ../images/object/artifact/tool/step_ladder  ...                []
+
+[1 rows x 7 columns]
+stethoscope,                                                          path  ... subordinates_syns
+stethoscope  ../images/object/artifact/medical_instrument/s...  ...                []
+
+[1 rows x 7 columns]
+stool,                                            path  ... subordinates_syns
+stool  ../images/object/artifact/furniture/stool  ...                []
+
+[1 rows x 7 columns]
+strawberry,                                                        path  ... subordinates_syns
+strawberry  ../images/object/natural_object/fruit/strawberry  ...                []
+
+[1 rows x 7 columns]
+stretcher,                                                        path  ... subordinates_syns
+stretcher  ../images/object/artifact/medical_instrument/s...  ...                []
+
+[1 rows x 7 columns]
+sunglasses,                                                    path  ... subordinates_syns
+sunglasses  ../images/object/artifact/jewelry/sunglasses  ...                []
+
+[1 rows x 7 columns]
+surfboard,                                                        path  ... subordinates_syns
+surfboard  ../images/object/artifact/outdoor_sport/surfboard  ...                []
+
+[1 rows x 7 columns]
+surgeonfish,                                                               path  ... subordinates_syns
+body_surgeonfish  ../images/animate_being/animal/fish/surgeonfis...  ...                []
+
+[1 rows x 7 columns]
+swan,                                                    path  ... subordinates_syns
+body_swan  ../images/animate_being/animal/bird/swan/body  ...                []
+face_swan  ../images/animate_being/animal/bird/swan/face  ...                []
+
+[2 rows x 7 columns]
+swing,                                       path  ... subordinates_syns
+swing  ../images/object/artifact/game/swing  ...                []
+
+[1 rows x 7 columns]
+syringe,                                                      path  ... subordinates_syns
+syringe  ../images/object/artifact/medical_instrument/s...  ...                []
+
+[1 rows x 7 columns]
+t-shirt,                                               path  ... subordinates_syns
+t-shirt  ../images/object/artifact/clothing/t-shirt  ...                []
+
+[1 rows x 7 columns]
+table,                                            path  ... subordinates_syns
+table  ../images/object/artifact/furniture/table  ...                []
+
+[1 rows x 7 columns]
+tablespoon,                                                        path  ... subordinates_syns
+tablespoon  ../images/object/artifact/kitchenware/tablespoon  ...                []
+
+[1 rows x 7 columns]
+tail,                                                             path  ... subordinates_syns
+blue_jay_tail   ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+crocodile_tail  ../images/animate_being/animal/reptile/crocodi...  ...                []
+dog_tail        ../images/animate_being/animal/mammal/canine/d...  ...                []
+dolphin_tail    ../images/animate_being/animal/mammal/aquatic_...  ...                []
+elephant_tail   ../images/animate_being/animal/mammal/elephant...  ...                []
+fox_tail        ../images/animate_being/animal/mammal/canine/f...  ...                []
+horse_tail      ../images/animate_being/animal/mammal/horse/bo...  ...                []
+leopard_tail    ../images/animate_being/animal/mammal/feline/l...  ...                []
+lion_tail       ../images/animate_being/animal/mammal/feline/l...  ...                []
+lizard_tail     ../images/animate_being/animal/reptile/lizard/...  ...                []
+peacock_tail    ../images/animate_being/animal/bird/peacock/bo...  ...                []
+rabbit_tail     ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+squirrel_tail   ../images/animate_being/animal/mammal/squirrel...  ...                []
+tail_hog        ../images/animate_being/animal/mammal/hog/body...  ...                []
+tiger_tail      ../images/animate_being/animal/mammal/feline/t...  ...                []
+turtle_tail     ../images/animate_being/animal/reptile/turtle/...  ...                []
+whale_tail      ../images/animate_being/animal/mammal/aquatic_...  ...                []
+wolf_tail       ../images/animate_being/animal/mammal/canine/w...  ...                []
+
+[18 rows x 7 columns]
+talon,                                                             path  ... subordinates_syns
+blue_jay_talon  ../images/animate_being/animal/bird/blue_jay/b...  ...                []
+cardinal_talon  ../images/animate_being/animal/bird/cardinal/b...  ...                []
+owl_talon       ../images/animate_being/animal/bird/owl/body_p...  ...                []
+
+[3 rows x 7 columns]
+tambourine,                                                         path  ... subordinates_syns
+tambourine  ../images/object/artifact/musical_instrument/t...  ...                []
+
+[1 rows x 7 columns]
+tape,                                                   path  ... subordinates_syns
+tape  ../images/object/artifact/medical_instrument/tape  ...                []
+
+[1 rows x 7 columns]
+teapot,                                                path  ... subordinates_syns
+teapot  ../images/object/artifact/kitchenware/teapot  ...                []
+
+[1 rows x 7 columns]
+television,                                                         path  ... subordinates_syns
+television  ../images/object/artifact/electronic_device/te...  ...                []
+
+[1 rows x 7 columns]
+tennis_ball,                                                          path  ... subordinates_syns
+tennis_ball  ../images/object/artifact/outdoor_sport/tennis...  ...                []
+
+[1 rows x 7 columns]
+thermometer,                                                          path  ... subordinates_syns
+thermometer  ../images/object/artifact/medical_instrument/t...  ...                []
+
+[1 rows x 7 columns]
+tiger,                                                          path  ... subordinates_syns
+body_tiger   ../images/animate_being/animal/mammal/feline/t...  ...                []
+face_tiger   ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_ear    ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_eye    ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_nose   ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_paw    ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_tail   ../images/animate_being/animal/mammal/feline/t...  ...                []
+tiger_tooth  ../images/animate_being/animal/mammal/feline/t...  ...                []
+
+[8 rows x 7 columns]
+toilet,                                             path  ... subordinates_syns
+toilet  ../images/object/artifact/bathroom/toilet  ...                []
+
+[1 rows x 7 columns]
+toilet_paper,                                                         path  ... subordinates_syns
+toilet_paper  ../images/object/artifact/bathroom/toilet_paper  ...                []
+
+[1 rows x 7 columns]
+tongue,                                                        path  ... subordinates_syns
+tongue_human  ../images/animate_being/human/body_part/tongue  ...                []
+
+[1 rows x 7 columns]
+tool,                                                       path  ... subordinates_syns
+axe                      ../images/object/artifact/tool/axe  ...                []
+blower                ../images/object/artifact/tool/blower  ...                []
+chainsaw            ../images/object/artifact/tool/chainsaw  ...                []
+drill                  ../images/object/artifact/tool/drill  ...                []
+hammer                ../images/object/artifact/tool/hammer  ...                []
+hunting_knife  ../images/object/artifact/tool/hunting_knife  ...                []
+paint_roller    ../images/object/artifact/tool/paint_roller  ...                []
+pipe_wrench      ../images/object/artifact/tool/pipe_wrench  ...                []
+pliers                ../images/object/artifact/tool/pliers  ...                []
+rake                    ../images/object/artifact/tool/rake  ...                []
+screwdriver      ../images/object/artifact/tool/screwdriver  ...                []
+shovel                ../images/object/artifact/tool/shovel  ...                []
+step_ladder      ../images/object/artifact/tool/step_ladder  ...                []
+watering_can    ../images/object/artifact/tool/watering_can  ...                []
+wheelbarrow      ../images/object/artifact/tool/wheelbarrow  ...                []
+wrench                ../images/object/artifact/tool/wrench  ...                []
+
+[16 rows x 7 columns]
+tooth,                                                                 path  ... subordinates_syns
+crocodile_tooth     ../images/animate_being/animal/reptile/crocodi...  ...                []
+dog_tooth           ../images/animate_being/animal/mammal/canine/d...  ...                []
+hippopotamus_tooth  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+horse_tooth         ../images/animate_being/animal/mammal/horse/bo...  ...                []
+lion_tooth          ../images/animate_being/animal/mammal/feline/l...  ...                []
+lynx_tooth          ../images/animate_being/animal/mammal/feline/l...  ...                []
+monkey_tooth        ../images/animate_being/animal/mammal/monkey/b...  ...                []
+rabbit_tooth        ../images/animate_being/animal/mammal/rabbit/b...  ...                []
+seal_tooth          ../images/animate_being/animal/mammal/aquatic_...  ...                []
+tiger_tooth         ../images/animate_being/animal/mammal/feline/t...  ...                []
+tooth_human             ../images/animate_being/human/body_part/tooth  ...                []
+
+[11 rows x 7 columns]
+toothbrush,                                                     path  ... subordinates_syns
+toothbrush  ../images/object/artifact/bathroom/toothbrush  ...                []
+
+[1 rows x 7 columns]
+towel,                                           path  ... subordinates_syns
+towel  ../images/object/artifact/bathroom/towel  ...                []
+
+[1 rows x 7 columns]
+tractor,                                              path  ... subordinates_syns
+tractor  ../images/object/artifact/vehicle/tractor  ...                []
+
+[1 rows x 7 columns]
+train,                                          path  ... subordinates_syns
+train  ../images/object/artifact/vehicle/train  ...                []
+
+[1 rows x 7 columns]
+trash_can,                                                        path  ... subordinates_syns
+trash_can  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+trout,                                                      path  ... subordinates_syns
+body_trout  ../images/animate_being/animal/fish/trout/body  ...                []
+
+[1 rows x 7 columns]
+trumpet,                                                      path  ... subordinates_syns
+trumpet  ../images/object/artifact/musical_instrument/t...  ...                []
+
+[1 rows x 7 columns]
+trunk,                                                             path  ... subordinates_syns
+elephant_trunk  ../images/animate_being/animal/mammal/elephant...  ...                []
+
+[1 rows x 7 columns]
+turtle,                                                          path  ... subordinates_syns
+body_turtle  ../images/animate_being/animal/reptile/turtle/...  ...                []
+face_turtle  ../images/animate_being/animal/reptile/turtle/...  ...                []
+turtle_tail  ../images/animate_being/animal/reptile/turtle/...  ...                []
+
+[3 rows x 7 columns]
+tuxedo,                                             path  ... subordinates_syns
+tuxedo  ../images/object/artifact/clothing/tuxedo  ...                []
+
+[1 rows x 7 columns]
+urinal,                                             path  ... subordinates_syns
+urinal  ../images/object/artifact/bathroom/urinal  ...                []
+
+[1 rows x 7 columns]
+vacuum_cleaner,                                                             path  ... subordinates_syns
+vacuum_cleaner  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+vegetable,                                                          path  ... subordinates_syns
+asparagus    ../images/object/natural_object/vegetable/aspa...  ...                []
+broccoli     ../images/object/natural_object/vegetable/broc...  ...                []
+cabbage      ../images/object/natural_object/vegetable/cabbage  ...                []
+carrot        ../images/object/natural_object/vegetable/carrot  ...                []
+cauliflower  ../images/object/natural_object/vegetable/caul...  ...                []
+celery        ../images/object/natural_object/vegetable/celery  ...                []
+corn            ../images/object/natural_object/vegetable/corn  ...                []
+cucumber     ../images/object/natural_object/vegetable/cucu...  ...                []
+lettuce      ../images/object/natural_object/vegetable/lettuce  ...                []
+mushroom     ../images/object/natural_object/vegetable/mush...  ...                []
+onion          ../images/object/natural_object/vegetable/onion  ...                []
+pepper        ../images/object/natural_object/vegetable/pepper  ...                []
+potato        ../images/object/natural_object/vegetable/potato  ...                []
+pumpkin      ../images/object/natural_object/vegetable/pumpkin  ...                []
+radish        ../images/object/natural_object/vegetable/radish  ...                []
+zucchini     ../images/object/natural_object/vegetable/zucc...  ...                []
+
+[16 rows x 7 columns]
+vehicle,                                                    path  ... subordinates_syns
+RV                  ../images/object/artifact/vehicle/RV  ...                []
+airplane      ../images/object/artifact/vehicle/airplane  ...                []
+bicycle        ../images/object/artifact/vehicle/bicycle  ...                []
+bus                ../images/object/artifact/vehicle/bus  ...                []
+car                ../images/object/artifact/vehicle/car  ...                []
+caravan        ../images/object/artifact/vehicle/caravan  ...                []
+cargo_ship  ../images/object/artifact/vehicle/cargo_ship  ...                []
+dirt_bike    ../images/object/artifact/vehicle/dirt_bike  ...                []
+fire_truck  ../images/object/artifact/vehicle/fire_truck  ...                []
+metro            ../images/object/artifact/vehicle/metro  ...                []
+motorcycle  ../images/object/artifact/vehicle/motorcycle  ...                []
+pickup          ../images/object/artifact/vehicle/pickup  ...                []
+sailboat      ../images/object/artifact/vehicle/sailboat  ...                []
+scooter        ../images/object/artifact/vehicle/scooter  ...                []
+tractor        ../images/object/artifact/vehicle/tractor  ...                []
+train            ../images/object/artifact/vehicle/train  ...                []
+
+[16 rows x 7 columns]
+video_game,                                                         path  ... subordinates_syns
+video_game  ../images/object/artifact/electronic_device/vi...  ...                []
+
+[1 rows x 7 columns]
+violin,                                                     path  ... subordinates_syns
+violin  ../images/object/artifact/musical_instrument/v...  ...                []
+
+[1 rows x 7 columns]
+walkie-talkie,                                                            path  ... subordinates_syns
+walkie-talkie  ../images/object/artifact/electronic_device/wa...  ...                []
+
+[1 rows x 7 columns]
+walrus,                                                          path  ... subordinates_syns
+body_walrus  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_walrus  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+
+[2 rows x 7 columns]
+washer,                                                     path  ... subordinates_syns
+washer  ../images/object/artifact/household_appliance/...  ...                []
+
+[1 rows x 7 columns]
+watch,                                          path  ... subordinates_syns
+watch  ../images/object/artifact/jewelry/watch  ...                []
+
+[1 rows x 7 columns]
+watering_can,                                                     path  ... subordinates_syns
+watering_can  ../images/object/artifact/tool/watering_can  ...                []
+
+[1 rows x 7 columns]
+whale,                                                         path  ... subordinates_syns
+body_whale  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_whale  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+whale_tail  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+
+[3 rows x 7 columns]
+wheelbarrow,                                                   path  ... subordinates_syns
+wheelbarrow  ../images/object/artifact/tool/wheelbarrow  ...                []
+
+[1 rows x 7 columns]
+wheelchair,                                                         path  ... subordinates_syns
+wheelchair  ../images/object/artifact/medical_instrument/w...  ...                []
+
+[1 rows x 7 columns]
+whisk,                                              path  ... subordinates_syns
+whisk  ../images/object/artifact/kitchenware/whisk  ...                []
+
+[1 rows x 7 columns]
+white_whale,                                                               path  ... subordinates_syns
+body_white_whale  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+eye_white_whale   ../images/animate_being/animal/mammal/aquatic_...  ...                []
+face_white_whale  ../images/animate_being/animal/mammal/aquatic_...  ...                []
+
+[3 rows x 7 columns]
+wolf,                                                        path  ... subordinates_syns
+body_wolf  ../images/animate_being/animal/mammal/canine/w...  ...                []
+face_wolf  ../images/animate_being/animal/mammal/canine/w...  ...                []
+wolf_tail  ../images/animate_being/animal/mammal/canine/w...  ...                []
+
+[3 rows x 7 columns]
+wrench,                                         path  ... subordinates_syns
+wrench  ../images/object/artifact/tool/wrench  ...                []
+
+[1 rows x 7 columns]
+xylophone,                                                        path  ... subordinates_syns
+xylophone  ../images/object/artifact/musical_instrument/x...  ...                []
+
+[1 rows x 7 columns]
+zucchini,                                                       path  ... subordinates_syns
+zucchini  ../images/object/natural_object/vegetable/zucc...  ...                []
+
+[1 rows x 7 columns]

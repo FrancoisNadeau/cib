@@ -1,0 +1,22 @@
+Courtois-Neuromod Image Bank
+Authors: Nadeau, F; Allard, S-J; Kong, N; Boyle, J; Borghessani, V;
+
+Courtois-Neuromod Image Bank
+is licensed under CC BY-NC-SA 4.0 CC iconby iconnc iconsa icon
+
+The individual images were published online by their respective authors
+under either Creative Commons BY 2.0, Creative Commons BY-NC 2.0,
+Public Domain Mark 1.0, Public Domain CC0 1.0, or U.S. Government Works
+license. All of these licenses allow free use, redistribution, and adaptation for non-commercial purposes. Althought it was intended to select images from public domain, some might require giving appropriate credit to the original author, as well as indicating any changes that were made to the images.
+Thus, every image in here was cropped to 1:1 aspect ratio. Each image will also be srhinked to different sizes for compatibility pruposes.
+If your image is in the database and you would like to claim authorship,
+fell free to communicate your needs.
+
+The dataset itself (including JSON metadata, download script, and
+documentation) is made available under Creative Commons BY-NC-SA 4.0 license
+by NVIDIA Corporation. You can use, redistribute, and adapt it for
+non-commercial purposes, as long as you (a) give appropriate credit by
+citing our paper, (b) indicate any changes that you've made, and
+(c) distribute any derivative works under the same license.
+
+    https://creativecommons.org/licenses/by-nc-sa/4.0/

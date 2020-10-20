@@ -1,0 +1,11 @@
+0,1
+places,"0                                           landmark                                              scene
+1  {'inside': ({'structure': (6, ['toilet', 'sink...  {'inside': ({'establishment': (2, ['bar', 'res..."
+animate_being,"0                                             animal  ...                                          body_part
+1  {'domestic_animal': ({'horse': (2, ['face', 'b...  ...  {'human_body_part': ({'limb': (4, ['foot', 'ar...
+
+[1 rows x 3 columns]"
+object,"0                                               food  ...                                           artifact
+1  {'meal': ({'dish': (6, ['fruit_salad', 'egg', ...  ...  {'musical_instrument': ({'keyboard_instrument'...
+
+[1 rows x 3 columns]"
