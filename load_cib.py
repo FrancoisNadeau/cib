@@ -63,7 +63,7 @@ def main():
                            ).to_dict()).transpose().to_dict()[1]
         return mapping
     def json_write(jsonfit, name='cib_inv.json'):
-        with open(join('../docs/', name), 'w') as outfile:
+        with open(join('.', name), 'w') as outfile:
             json.dump(json.dumps(jsonfit, indent=10), outfile)
     cibmap = load_cib()
     json_write(cibmap)
