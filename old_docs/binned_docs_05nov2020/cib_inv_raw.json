@@ -1,0 +1,777 @@
+{
+    "('places', ('n_files', 422))": {
+        "('landmark', ('n_files', 280))": {
+            "('inside', ('n_files', 120))": {
+                "('structure', ('n_files', 120))": {
+                    "toilet": 20,
+                    "sink": 20,
+                    "shower": 20,
+                    "bathtub": 20,
+                    "urinal": 20,
+                    "MRI": 20
+                }
+            },
+            "('outdoors', ('n_files', 160))": {
+                "('geological_formation', ('n_files', 60))": {
+                    "beach": 20,
+                    "mountain": 20,
+                    "river": 20
+                },
+                "('construction', ('n_files', 100))": {
+                    "clock": 20,
+                    "fountain": 20,
+                    "swing": 20,
+                    "slide": 20,
+                    "ferris_wheel": 20,
+                    "road": 0
+                }
+            }
+        },
+        "('scene', ('n_files', 142))": {
+            "('inside', ('n_files', 40))": {
+                "('establishment', ('n_files', 40))": {
+                    "bar": 20,
+                    "restaurant": 20
+                }
+            },
+            "('outdoors', ('n_files', 102))": {
+                "('urban_area', ('n_files', 62))": {
+                    "city": 20,
+                    "miniature_golf": 20,
+                    "skyscraper": 1,
+                    "house": 1,
+                    "building": 20
+                },
+                "('nature', ('n_files', 40))": {
+                    "forest": 20,
+                    "field": 20
+                }
+            }
+        }
+    },
+    "('animate_being', ('n_files', 4606))": {
+        "('animal', ('n_files', 2489))": {
+            "('domestic_animal', ('n_files', 243))": {
+                "('horse', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('cow', ('n_files', 43))": {
+                    "face": 23,
+                    "body": 20
+                },
+                "('dog', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('sheep', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('hog', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('cat', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                }
+            },
+            "('insect', ('n_files', 240))": {
+                "('fly', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('bee', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('caterpillar', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('ant', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('grasshopper', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('beetle', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('butterfly', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('ladybug', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('dragonfly', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                }
+            },
+            "('reptile', ('n_files', 225))": {
+                "('lizard', ('n_files', 34))": {
+                    "face": 14,
+                    "body": 20
+                },
+                "('turtle', ('n_files', 36))": {
+                    "face": 15,
+                    "body": 21
+                },
+                "('chameleon', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('common_iguana', ('n_files', 43))": {
+                    "face": 22,
+                    "body": 21
+                },
+                "('crocodile', ('n_files', 41))": {
+                    "face": 20,
+                    "body": 21
+                },
+                "('snake', ('n_files', 31))": {
+                    "face": 15,
+                    "body": 16
+                }
+            },
+            "('fish', ('n_files', 212))": {
+                "('seahorse', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('surgeonfish', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('moray', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('lionfish', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('piranha', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('butterfly_fish', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('great_white_shark', ('n_files', 32))": {
+                    "face": 12,
+                    "body": 20
+                },
+                "('anemone_fish', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('trout', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('ray', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                }
+            },
+            "('aquatic_mammal', ('n_files', 382))": {
+                "('dolphin', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('seal', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('walrus', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('marauder', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('killer_whale', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('whale', ('n_files', 22))": {
+                    "face": 2,
+                    "body": 20
+                },
+                "('hippopotamus', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('beaver', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('white_whale', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('sea_lion', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                }
+            },
+            "('carnivore', ('n_files', 360))": {
+                "('fox', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('hyena', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('leopard', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('lion', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('wolf', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('tiger', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('bear', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('coyote', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('lynx', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                }
+            },
+            "('mammal', ('n_files', 360))": {
+                "('monkey', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('giant_panda', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('squirrel', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('elk', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('elephant', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('raccoon', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('rabbit', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('koala', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('giraffe', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                }
+            },
+            "('bird', ('n_files', 467))": {
+                "('falcon', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('peacock', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('sparrow', ('n_files', 26))": {
+                    "face": 6,
+                    "body": 20
+                },
+                "('owl', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('flamingo', ('n_files', 41))": {
+                    "face": 21,
+                    "body": 20
+                },
+                "('chickadee', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                },
+                "('blue_jay', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('swan', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('cardinal', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('chicken', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('heron', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('penguin', ('n_files', 40))": {
+                    "face": 20,
+                    "body": 20
+                },
+                "('hummingbird', ('n_files', 20))": {
+                    "face": 0,
+                    "body": 20
+                }
+            }
+        },
+        "('human', ('n_files', 1116))": {
+            "('face', ('n_files', 1116))": {
+                "('female', ('n_files', 601))": {
+                    "adult": 149,
+                    "baby": 9,
+                    "child": 126,
+                    "elder": 156,
+                    "adolescent": 161
+                },
+                "('male', ('n_files', 515))": {
+                    "adult": 104,
+                    "baby": 20,
+                    "child": 103,
+                    "elder": 152,
+                    "adolescent": 136
+                }
+            }
+        },
+        "('body_part', ('n_files', 1001))": {
+            "('human_body_part', ('n_files', 297))": {
+                "('limb', ('n_files', 143))": {
+                    "foot": 66,
+                    "arm": 20,
+                    "leg": 13,
+                    "hand": 44
+                },
+                "('feature', ('n_files', 154))": {
+                    "nose": 5,
+                    "tooth": 10,
+                    "eye": 94,
+                    "tongue": 7,
+                    "ear": 13,
+                    "hair": 4,
+                    "mouth": 21
+                }
+            },
+            "('animal_body_part', ('n_files', 704))": {
+                "('limb', ('n_files', 259))": {
+                    "paw": 128,
+                    "tail": 88,
+                    "hoof": 16,
+                    "talon": 17,
+                    "hand": 10
+                },
+                "('feature', ('n_files', 445))": {
+                    "nose": 120,
+                    "tooth": 43,
+                    "eye": 205,
+                    "trunk": 20,
+                    "ear": 51,
+                    "beak": 4,
+                    "mouth": 2
+                }
+            }
+        }
+    },
+    "('object', ('n_files', 4860))": {
+        "('food', ('n_files', 920))": {
+            "('meal', ('n_files', 300))": {
+                "('dish', ('n_files', 120))": {
+                    "fruit_salad": 20,
+                    "egg": 20,
+                    "fish_filet": 20,
+                    "soup": 20,
+                    "poultry": 20,
+                    "salad": 20
+                },
+                "('baked_goods', ('n_files', 80))": {
+                    "bread": 20,
+                    "muffin": 20,
+                    "bagel": 20,
+                    "pizza": 20
+                },
+                "('junk_food', ('n_files', 100))": {
+                    "burger": 20,
+                    "cereal": 20,
+                    "ice_cream": 20,
+                    "french_fries": 20,
+                    "sandwich": 20
+                }
+            },
+            "('fruit', ('n_files', 320))": {
+                "('berry', ('n_files', 100))": {
+                    "cranberry": 20,
+                    "raspberry": 20,
+                    "strawberry": 20,
+                    "grape": 20,
+                    "cherry": 20
+                },
+                "('simple_fruit', ('n_files', 220))": {
+                    "pitahaya": 20,
+                    "melon": 20,
+                    "grapefruit": 20,
+                    "mango": 20,
+                    "pear": 20,
+                    "banana": 20,
+                    "kiwi": 20,
+                    "apple": 20,
+                    "lemon": 20,
+                    "peach": 20,
+                    "pineapple": 20
+                }
+            },
+            "('vegetable', ('n_files', 300))": {
+                "('produce', ('n_files', 160))": {
+                    "corn": 20,
+                    "potato": 20,
+                    "carrot": 20,
+                    "cauliflower": 20,
+                    "onion": 20,
+                    "pumpkin": 20,
+                    "pepper": 20,
+                    "radish": 20
+                },
+                "('green_goods', ('n_files', 140))": {
+                    "zucchini": 20,
+                    "broccoli": 20,
+                    "cucumber": 20,
+                    "asparagus": 20,
+                    "celery": 20,
+                    "lettuce": 20,
+                    "cabbage": 20
+                }
+            }
+        },
+        "('natural_object', ('n_files', 60))": {
+            "('plant', ('n_files', 60))": {
+                "('organism', ('n_files', 20))": {
+                    "mushroom": 20
+                },
+                "('tree', ('n_files', 40))": {
+                    "deciduous": 20,
+                    "christmas_tree": 20
+                }
+            },
+            "('other_ideas', ('n_files', 0))": {}
+        },
+        "('artifact', ('n_files', 3880))": {
+            "('musical_instrument', ('n_files', 320))": {
+                "('keyboard_instrument', ('n_files', 40))": {
+                    "organ": 20,
+                    "piano": 20
+                },
+                "('brass_instrument', ('n_files', 40))": {
+                    "saxophone": 20,
+                    "trumpet": 20
+                },
+                "('wind_instrument', ('n_files', 80))": {
+                    "flute": 20,
+                    "clarinet": 20,
+                    "accordion": 20,
+                    "harmonica": 20
+                },
+                "('stringed_instrument', ('n_files', 60))": {
+                    "guitar": 20,
+                    "violin": 20,
+                    "harp": 20
+                },
+                "('percussion_instrument', ('n_files', 100))": {
+                    "gong": 20,
+                    "tambourine": 20,
+                    "maraca": 20,
+                    "drum": 20,
+                    "xylophone": 20
+                }
+            },
+            "('furniture', ('n_files', 640))": {
+                "('appliance', ('n_files', 160))": {
+                    "dryer": 20,
+                    "air_conditioner": 20,
+                    "sewing_machine": 20,
+                    "steam_iron": 20,
+                    "clothespin": 20,
+                    "printer": 20,
+                    "flatiron": 20,
+                    "vacuum_cleaner": 20
+                },
+                "('device', ('n_files', 100))": {
+                    "fan": 20,
+                    "coffee_maker": 20,
+                    "lamp": 20,
+                    "television": 20,
+                    "speaker": 20
+                },
+                "('seat', ('n_files', 140))": {
+                    "stool": 20,
+                    "sofa": 20,
+                    "chair": 20,
+                    "rocking_chair": 20,
+                    "bench": 20,
+                    "pouffe": 20,
+                    "armchair": 20
+                },
+                "('bedroom_furniture', ('n_files', 60))": {
+                    "dresser": 20,
+                    "bed": 20,
+                    "cabinet": 20
+                },
+                "('dining-room_furniture', ('n_files', 40))": {
+                    "table": 20,
+                    "buffet": 20
+                },
+                "('office_furniture', ('n_files', 60))": {
+                    "desk": 20,
+                    "filing_cabinet": 20,
+                    "bookshelf": 20
+                },
+                "('white_goods', ('n_files', 80))": {
+                    "dishwasher": 20,
+                    "oven": 20,
+                    "washer": 20,
+                    "fridge": 20
+                }
+            },
+            "('vehicle', ('n_files', 480))": {
+                "('public_transport', ('n_files', 60))": {
+                    "bus": 20,
+                    "train": 20,
+                    "metro": 20
+                },
+                "('wheeled_vehicle', ('n_files', 100))": {
+                    "wheelbarrow": 20,
+                    "skateboard": 20,
+                    "rollerblade": 20,
+                    "bicycle": 20,
+                    "wheelchair": 20
+                },
+                "('craft', ('n_files', 140))": {
+                    "glider": 20,
+                    "kayak": 20,
+                    "sailboat": 20,
+                    "surfboard": 20,
+                    "cargo_ship": 20,
+                    "airplane": 20,
+                    "parachute": 20
+                },
+                "('motor_vehicle', ('n_files', 180))": {
+                    "scooter": 20,
+                    "pickup": 20,
+                    "tractor": 20,
+                    "caravan": 20,
+                    "car": 20,
+                    "dirt_bike": 20,
+                    "fire_truck": 20,
+                    "motorcycle": 20,
+                    "RV": 20
+                }
+            },
+            "('clothing', ('n_files', 400))": {
+                "('footwear', ('n_files', 60))": {
+                    "sock": 20,
+                    "snowshoe": 20,
+                    "shoe": 20
+                },
+                "('bag', ('n_files', 40))": {
+                    "handbag": 20,
+                    "backpack": 20
+                },
+                "('trousers', ('n_files', 60))": {
+                    "pant": 20,
+                    "shorts": 20,
+                    "pyjama": 20
+                },
+                "('garment', ('n_files', 140))": {
+                    "camisole": 20,
+                    "t-shirt": 20,
+                    "dress": 20,
+                    "skirt": 20,
+                    "tuxedo": 20,
+                    "scarf": 20,
+                    "jacket": 20
+                },
+                "('headdress', ('n_files', 60))": {
+                    "helmet": 20,
+                    "hat": 20,
+                    "crown": 20
+                },
+                "('handwear', ('n_files', 40))": {
+                    "mitten": 20,
+                    "glove": 20
+                }
+            },
+            "('tool', ('n_files', 2040))": {
+                "('kitchen_utensil', ('n_files', 140))": {
+                    "ladle": 20,
+                    "teapot": 20,
+                    "grater": 20,
+                    "peeler": 20,
+                    "bottle_opener": 20,
+                    "corkscrew": 20,
+                    "whisk": 20
+                },
+                "('power_tool', ('n_files', 60))": {
+                    "chainsaw": 20,
+                    "drill": 20,
+                    "blower": 20
+                },
+                "('miscellaneous', ('n_files', 180))": {
+                    "book": 20,
+                    "paperclip": 20,
+                    "glasses": 20,
+                    "binder": 20,
+                    "soap": 20,
+                    "punch": 20,
+                    "step_ladder": 20,
+                    "sunglasses": 20,
+                    "towel": 20
+                },
+                "('measuring_instrument', ('n_files', 100))": {
+                    "tape": 20,
+                    "scale": 20,
+                    "thermometer": 20,
+                    "meter": 20,
+                    "watch": 20
+                },
+                "('container', ('n_files', 100))": {
+                    "laundry_basket": 20,
+                    "trash_can": 20,
+                    "flowerpot": 20,
+                    "pencil_case": 20,
+                    "watering_can": 20
+                },
+                "('hand_tool', ('n_files', 280))": {
+                    "toothbrush": 20,
+                    "pipe_wrench": 20,
+                    "screwdriver": 20,
+                    "hairbrush": 20,
+                    "hair_dryer": 20,
+                    "toilet_paper": 20,
+                    "paint_roller": 20,
+                    "pliers": 20,
+                    "showerhead": 20,
+                    "hammer": 20,
+                    "shovel": 20,
+                    "wrench": 20,
+                    "rake": 20,
+                    "brush": 20
+                },
+                "('electronic_device', ('n_files', 200))": {
+                    "earphone": 20,
+                    "keyboard": 20,
+                    "remote": 20,
+                    "camera": 20,
+                    "laptop": 20,
+                    "microphone": 20,
+                    "cellphone": 20,
+                    "headphone": 20,
+                    "mouse": 20,
+                    "walkie-talkie": 20
+                },
+                "('ball', ('n_files', 180))": {
+                    "basketball": 20,
+                    "bowling_ball": 20,
+                    "baseball": 20,
+                    "golf_ball": 20,
+                    "soccer_ball": 20,
+                    "football": 20,
+                    "beach_ball": 20,
+                    "pool_ball": 20,
+                    "tennis_ball": 20
+                },
+                "('medical_instrument', ('n_files', 120))": {
+                    "pregnancy_test": 20,
+                    "sphygmomanometer": 20,
+                    "crutch": 20,
+                    "first_aid": 20,
+                    "syringe": 20,
+                    "stethoscope": 20
+                },
+                "('toy', ('n_files', 160))": {
+                    "checkers": 20,
+                    "chinese_checkers": 20,
+                    "puzzle": 20,
+                    "dice": 20,
+                    "cube": 20,
+                    "balloon": 20,
+                    "chess": 20,
+                    "marble": 20
+                },
+                "('decoration', ('n_files', 60))": {
+                    "menorah": 20,
+                    "rosary": 20,
+                    "candle": 20
+                },
+                "('cleaning_implement', ('n_files', 80))": {
+                    "broom": 20,
+                    "mop": 20,
+                    "bucket": 20,
+                    "scouring_pad": 20
+                },
+                "('edge_tool', ('n_files', 140))": {
+                    "clipper": 20,
+                    "razor": 20,
+                    "sharpener": 20,
+                    "hunting_knife": 20,
+                    "axe": 20,
+                    "scissors": 20,
+                    "knife": 20
+                },
+                "('writing_implement', ('n_files', 120))": {
+                    "chalk": 20,
+                    "pen": 20,
+                    "notebook": 20,
+                    "eraser": 20,
+                    "marker": 20,
+                    "pencil": 20
+                },
+                "('tableware', ('n_files', 120))": {
+                    "drinking_glass": 20,
+                    "butter_knife": 20,
+                    "tablespoon": 20,
+                    "cup": 20,
+                    "plate": 20,
+                    "fork": 20
+                }
+            }
+        }
+    }
+}

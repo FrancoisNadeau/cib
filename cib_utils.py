@@ -1,23 +1,91 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Nov 26 19:06:24 2019
+Created on Thu Nov  5 12:24:53 2020
 
-@author: Francois
+@author: francois
 """
+from collections import Counter
 import json
 import os
-from operator import itemgetter 
 from os.path import basename as bname
 from os.path import dirname as dname
 from os.path import join
-from os.path import splitext
-from random import sample
 from typing import Sequence
 import pandas as pd
+from pandas import DataFrame as df
 from nltk.corpus import wordnet as wn
+
 IMDIR = '../images'
 
+def count_categs():
+    imtags =  pd.read_csv('image_tags.csv')
+    return Counter(list(imtags[['level0', 'level1', 'level2', 'level3', 'level4']].values.flat))
+catcount = count_categs()
+def json_read(fpath):
+    ''' Read JSON file to Python object.
+        Parameter(s)
+        -------------
+        fpath:   str/path-like object (default='.' <cib_docs>)
+        
+        Reminder from native json module docs:
+            JSON to Python conversion list
+                JSON	PYTHON
+                object*	dict    includes pandas DataFrame objects
+                array	list
+                string	str
+                number (int)	int
+                number (real)	float
+                true	True
+                false	False
+                null	None
+        Return
+        ------
+        Python object
+    '''
+    with open(fpath, "r") as read_file:
+        return json.loads(json.load(read_file))
+    
+def json_write(jsonfit, fpath='.', name='cib_inv', idt=None):
+    ''' Write JSON compatible python object to desired location on disk
+        
+        Parameters
+        ----------
+            jsonfit: JSON compatible object
+                     Object to be written on disk.
+                     See list below (from native JSON documentation)
+            fpath:   str/path-like object (default='.' <cib_docs>)
+                     Path where to save. All directories must exist
+            name:    String (default='cib_inv')
+                     Desired filename to save
+            idt:     Non-negative Int (default=None)
+                     Indentation for visibility
+                     *From native JSON docs: 
+                         If ``indent`` is a non-negative integer,
+                         then JSON array elements and object members
+                         are pretty-printed with that indent level.
+                         Indent level 0 only inserts newlines. 
+                         ``None`` is the most compact representation.
+                              
+            JSON to Python conversion list
+                JSON	PYTHON
+                object*	dict    includes pandas DataFrame objects
+                array	list
+                string	str
+                number (int)	int
+                number (real)	float
+                true	True
+                false	False
+                null	None
+            
+        Return
+        ------
+        None
+    '''
+    with open(join(fpath, name+'.json'), 'w') as outfile:
+        json.dump(json.dumps(jsonfit, indent=idt), outfile)
 
+                                            
 def splitall(path):
     ''' Description
         -----------
@@ -84,13 +152,8 @@ def get_datas(imdir=IMDIR):
                               each concept in CNIB
     '''
     # syns = get_synsets()
-    fpaths = pd.DataFrame(sorted(list(os.walk(imdir)))[1:],
+    fpaths = df(sorted(list(os.walk(imdir)))[1:],
                           columns=['path', 'subordinates', 'concepts'])
-    # fpaths['names'] = [bname(row[1]['path']) for row in fpaths.iterrows()]
-    
-    # findex = pd.DataFrame(sorted(list(os.walk(imdir)))[1:],
-    #                       columns=['path', 'subordinates', 'concepts'])
-
     fpaths['subs'] = [[join(fpath, item) for item in os.listdir(fpath)]
                       for fpath in fpaths.path]
     fpaths['tags'] = [splitall(fpath.split(imdir)[1])[1:]
@@ -116,7 +179,7 @@ def get_folders(datas):
     ''' Description
         -----------
     '''
-    folders = pd.DataFrame((row[1]for row in datas.iterrows()
+    folders = df((row[1]for row in datas.iterrows()
                            if not all(pd.isnull(row[1]['subordinates']))),
                           columns=list(datas.columns))
     folders['names'] = [bname(folders.loc[ind]['path'])
@@ -132,7 +195,7 @@ def get_images(datas):
         -------
         ImageBank.images
     '''
-    images = pd.DataFrame((row[1]for row in datas.iterrows()
+    images = df((row[1]for row in datas.iterrows()
                            if pd.isnull(row[1]['subordinates']).all()),
                           columns=list(datas.columns))
     images['names'] = [bname(row[1]['path'])
@@ -142,33 +205,13 @@ def get_images(datas):
     # images_ind = images.set_index('names', append=True).index
     return images.sort_index(kind='mergesort')
 
-def bigdata(datas):
-    datalst = []
-    for fpath in datas.path:
-        catlst = (bname(fpath), get_datas(fpath))
-        datalst.append(catlst)
-    return datalst
-    # midx = pd.MultiIndex.from_tuples(datalst, names =('category', 'datas')) 
-    # final = pd.DataFrame(((item[0], item[1]) for item in datalst.items()),
-    #                      index=[item[0] for item in datalst.items()])
-    return datalst
-# big2 = bigdata(folders)
-# test = bigdata(animals)
 
 def get_data(imdir):
+    ''' Shortcut function to load info about all images and categories. '''
     data = get_datas(imdir)
     folders = get_folders(data)
     images = get_images(data)
     return data, folders, images 
-
-    # for frow in folders.iterrows():
-    #     if os.listdir(frow[1].subs[sub[0]])
-
-# dirlist = get_data(imdir=IMDIR)
-def alljpg():
-    notjpg = [img for img in loadimages() if not img.endswith('.jpg')]
-    for img in notjpg:
-        os.rename(img, os.path.splitext(img)[0]+'.jpg')
     
 def loadimages(impath='../images'):
     '''
@@ -205,7 +248,7 @@ def get_synsets():
         syns
     '''
     syns = pd.read_excel('../docs/all_tags_and_synsets.xlsx').set_index(['tags'])
-    # syns = pd.DataFrame(sorted(list(item for item in dict(zip(
+    # syns = df(sorted(list(item for item in dict(zip(
     #             sorted(list(dict.fromkeys(\
     #                 sorted(list(dict.fromkeys(flatten(\
     #                 list(splitall(impath.split('../images')[1])[1:-1]
@@ -215,72 +258,6 @@ def get_synsets():
     #                     columns=['tag', 'syn'])
     syns['syn'] = [wn.synset(syn).name() for syn in syns['syn']]
     return syns
-
-def sampling(lst, nsize, nsamples, exclusives=[]):
-    '''
-    Description
-    -----------
-    Draws desired amount of samples of desired size without
-    replacement from population.
-    Output can be either list or dict.
-
-    Parameters
-    ----------
-    lst: type=list
-        Input list from where population elements are sampled.
-
-    nsize: type=int
-        Size of each sample.
-
-    nsamples: type=int
-        Number of samples to be drawn from 'lst'
-
-    exclusives: type=list or type=dict
-    '''
-    samples = list(range(nsamples))#len=16
-    inds = sample(range(0, len(lst)), nsize*nsamples)#len = 640
-    exclusives = flatten(exclusives)
-    for item in range(len(exclusives)):
-        if item in flatten(inds) and item in exclusives:
-            inds.remove(item)
-    samples = [inds[ind:ind+nsize] for ind in range(0, len(inds), nsize)]
-    try:
-        for exclusive in exclusives:
-            error_msg = 'non-exlusive samples'
-            shared_items = []
-            for item in flatten(samples):
-                if item in flatten(exclusive):
-                    shared_items.append(item)
-        len(shared_items) != 0
-        print(error_msg)
-    except:
-        return samples
-
-def get_answers(rundict):
-    '''
-    Returns the answers based on keys pressed by subject
-    in a list and adds this list as 'Answers' in 'self.rundict'.
-    '''
-    answerlist = []
-    encnames = [rundict['encstims'][stim][0]
-                for stim in range(len(rundict['encstims']))]
-    encpos = [rundict['encstims'][stim][1]
-              for stim in range(len(rundict['encstims']))]
-    recnames = [rundict['recstims'][stim][0]
-                for stim in range(len(rundict['recstims']))]
-    recpos = [rundict['recstims'][stim][1]
-              for stim in range(len(rundict['recstims']))]
-    for ans in range(len(encnames)):
-        if recnames[ans] in encnames:
-            if recpos[ans] == encpos[ans]:
-                answerlist.append('HIT')
-            else:
-                answerlist.append('WS')
-        elif recnames[ans] not in encnames and recpos[ans] != 'None':
-            answerlist.append('FA')
-        else:
-            answerlist.append('CR')
-    rundict.update({'answers':answerlist})
 
 def clean_imname(name):
     ''' Description
@@ -299,33 +276,3 @@ def clean_imname(name):
         if 'body_part' in name:
             name = name.replace('body_part_', '')
         return name
-
-def dict2csv(dict_item):
-    ''' Description
-        -----------
-        Writes dict object to csv file\
-        Returns
-        -------
-        None
-    '''
-    with open('test.csv', 'w') as file2write:
-        for key in dict_item.keys():
-            file2write.write("%s,%s\n"%(key, dict_item[key]))
-#dict2csv(categories)
-
-
-
-#def csv2dict(file_path):
-#    with open(file_path, mode='r') as infile:
-#    reader = csv.reader(infile)
-#    with open('coors_new.csv', mode='w') as outfile:
-#        writer = csv.writer(outfile)
-#        mydict = {rows[0]:rows[1] for rows in reader}
-
-
-
-def renamefaces(facepath='/home/francois/cib/images/animate_being/animal/animal_face'):
-    flist = list(dict.fromkeys([dname(item) for item in loadimages(facepath)]))
-    for item in flist:
-        if '_face' not in bname(item):
-            os.rename(item, join(dname(item), bname(item)+'_face'))
